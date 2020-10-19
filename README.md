@@ -91,10 +91,10 @@ An **IDE** - Stands for ‘Integrated Development Environment’. It is somewher
 
 ```json
 { 
-    firstName: “Faye”, 
-    lastName: “Sipiano”, 
-    age: 27, 
-    eyeColor: “blue”, 
+    "firstName": "Faye", 
+    "lastName": "Sipiano", 
+    "age": 27, 
+    "eyeColor": "blue", 
 }
 ```
  

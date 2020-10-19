@@ -22,16 +22,11 @@ Absolutely not
 I have tried to gather a few words/phrases and definitions together here to help you out, and we can add to it as we go along!! 
 
 There are sometimes multiple words for the same thing, again - just to be confusing. I’ve tried to include all definitions that I’ve heard, but please let me know if I’ve missed any!
-
-
-
-**ASCII** 
-
+                                                                             📖
 
 
 **API** - Stands for Application Programming Interface, which provides a comprehensive layer of communication and callbacks to the original software layer, so that it becomes easier to integrate. Example- The google maps API allows you to integrate their maps to your apps through their API.
-
-                                                            📖
+                                                           
 **Boilerplate** (code) - The standard code you need to put into your code in order for it to run. An example is frameworks. Let’s take Bootstrap as an example. To use it, you need to copy and paste in a bunch of code that you get from the official website in order for you to be able to use it. Like a template.
 
 **CLI** - Can also stand for Common Language Infrastructure. A tool, developed by Microsoft, to allow different languages to be understood and interpreted by different computer programs, rather than having to restructure the architecture and build behind it. 
@@ -40,7 +35,6 @@ There are sometimes multiple words for the same thing, again - just to be confus
 
 **Directory** - Another word for folder. 
 _”Navigate to the correct directory”_ = go to the right folder.  
-
  
 **The DOM** - Always in capitals like that. A place in the browser to see a page’s HTML, CSS, and JavaScript all working together like a happy little family. You can type in it and add stuff. Useful when making a website and you want something to look a particular way. 
 
@@ -68,8 +62,6 @@ _”Navigate to the correct directory”_ = go to the right folder.
 
 **GitHub** - The name of a hosting service for storing and interacting with git repositories. GitHub provides additional collaboration tools on top of git, such as Pull Requests, Issues/bug reports, wiki, and other features. Other popular git hosting services include BitBucket and GitLab.
 
-
-
  ##If you need something to do more than that, you need 👇🏻 
 
 An **IDE** - Stands for ‘Integrated Development Environment’. It is somewhere that you write code, and has tools to help you write, structure and test it. Build, test, connect to databases, the works! 
@@ -91,7 +83,9 @@ An **IDE** - Stands for ‘Integrated Development Environment’. It is somewher
 _“You can access it locally”_ 
 
 **Method** -  The block of code that you can call by name that is associated with an object (in javascript, every function treated as object,So in simple words, A method is on an object)
-**Manipulating the DOM** - Just means changing something (usually JavaScript) in the DOM. 
+
+**Manipulating the DOM** - Just means changing something (usually JavaScript) in the DOM.
+
 **Machine Learning** - A realm of study within the domain of artificial intelligence that aims to develop techniques in software which allow machines to learn through experience. 
 
 **NaN** - Stands for 'Not a Number'. Is a number.
@@ -102,7 +96,7 @@ _“You can access it locally”_
 
 **Open source** - A project or repository that anyone can request to make changes or updates to. This is a good way to learn. 
  
- **Pseudocode** - A human-readable explanation of how something should work – the way and order that it runs in. Pseudocode does not have to follow the rules of any programming language. It is a description of what the code in a program is doing so that even non-technical individuals can understand its logic. 
+**Pseudocode** - A human-readable explanation of how something should work – the way and order that it runs in. Pseudocode does not have to follow the rules of any programming language. It is a description of what the code in a program is doing so that even non-technical individuals can understand its logic. 
 
 **PR** - stands for 'pull request'. Means that you are requesting that the changes or edits you have made be reviewed and eventually merged (in **git**)
 
@@ -115,8 +109,6 @@ _“You can access it locally”_
 _”I’m going to spend today refactoring old code because I learned so much since I first wrote it!”_ 
 
 **Remote** - Not on your computer – stored on someone else's machine/server Usually means you need to log in, through a portal or …... to be able to access it. 
-
-
   
 **Source Code** - Any collection of code that is displayed in a human readable format. Source code can be sent to a compiler to be translated into machine code for the CPU to utilize. 
 
@@ -128,13 +120,13 @@ _”I’m going to spend today refactoring old code because I learned so much si
 
 **Technical debt** - Extra development work that arises when code that is easy to implement in the short run is used instead of applying the best overall solution. If you keep implementing short term solutions, you'll soon be paying a lot of interest (Time, money) when adding new features because the codebase will be a mess.
 
-**Text editor** - Somewhere that you can write code. Microsoft Word is a text editor. Notepad is a text editor. It is pretty much just somewhere that you can hit the keyboard and stuff appears... 
 
+**Text editor** - Somewhere that you can write code. Microsoft Word is a text editor. Notepad is a text editor. It is pretty much just somewhere that you can hit the keyboard and stuff appears... 
 _“We need to access this remotely, do you have your login details?”_ 
- **UX** - Stands for User Experience, and is used to describe the way that a user navigates around and interacts with your site/app. UX is the _feel_ of the site. Linked with **UI**
- 
+
  **UI** - Stands for User Interface, this is used to describe what the website will generally look like - the buttons and the navigation  bar etc. UI is the _look_ of the site. Linked with **UX**
- 
 
 **Version Control** or **Source Control** - A system for managing changes and edits made to a document. Popular version control systems (VCS) include Git and Subversion (SVN).
+
+ **UX** - Stands for User Experience, and is used to describe the way that a user navigates around and interacts with your site/app. UX is the _feel_ of the site. Linked with **UI**
 

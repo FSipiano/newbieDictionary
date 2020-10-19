@@ -192,7 +192,7 @@ _“We need to access this remotely, do you have your login details?”_
 - **431** - Request Header Fields Too Large
 - **451** - Unavailable For Legal Reasons
 
-**5xx** - Server Error
+**5xx** - Server Error (Whoops, backend dev broke something!)
 - **500** - Internal Server Error
 - **501** - Not Implemented
 - **502** - Bad Gateway

@@ -128,6 +128,7 @@ An **IDE** - Stands for ‘Integrated Development Environment’. It is somewher
 
 **Transpile** - The process of turning code from one language into another. Examples include: TypeScript transpiled into JavaScript, CoffeeScript transpiled into JavaScript, Earl Grey being transpiled into JavaScript, JavaScript being transpiled into JavaScript. You’ll notice a trend. 
 
- 
+**Technical debt** - Extra development work that arises when code that is easy to implement in the short run is used instead of applying the best overall solution. If you keep implementing short term solutions, you'll soon be paying a lot of interest (Time, money) when adding new features because the codebase will be a mess.
+
 
 **ASCII** 

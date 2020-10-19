@@ -37,7 +37,9 @@ _”I’m going to spend today refactoring old code because I learned so much si
 
 _”Navigate to the correct directory”_ = go to the right folder.  
 
+ **UX** - Stands for User Experience, and is used to describe the way that a user navigates around and interacts with your site/app. UX is the _feel_ of the site. Linked with **UI**
  
+ **UI** - Stands for User Interface, this is used to describe what the website will generally look like - the buttons and the navigation  bar etc. UI is the _look_ of the site. Linked with **UX**
 
 **Local/locally** - On your computer 
 

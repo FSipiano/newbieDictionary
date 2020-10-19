@@ -27,6 +27,12 @@ There are sometimes multiple words for the same thing, again - just to be confus
 
                                                             📖
 
+**Static site**
+A website that has no user input, like a read-only document.
+
+**Dynamic site**
+A site where what the user experiences changes when they input data, like a comment on a blog or a login to their online account.
+
 **Refactor** - means to look over and rewrite your code in a different way. Maybe you learned a better way to do it, so you rewrite it. 
 
 _”I’m going to spend today refactoring old code because I learned so much since I first wrote it!”_ 

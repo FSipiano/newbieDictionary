@@ -1,5 +1,5 @@
 # newbieDictionary
-**I want to make this Open Source (definition in the dictionary!) to enable us all to add and learn from each other!
+**I wanted to make this Open Source (definition in the dictionary!) to enable us all to add and learn from each other!
 I want YOU to contribute. Click 'fork repository' (button in the top right), make your additions in your 'own version', and then create a pull request (definition below) to put it back into this main version! I'll review it and then add it in** 😄
 
 
@@ -44,6 +44,8 @@ _”Navigate to the correct directory”_ = go to the right folder.
 
 **Environment** - where you are working within your computer. For example, if you are making a webpage, your environment would be a **text editor** or **IDE** and the browser window. 
 
+**Framework** - A framework is a platform for developing software applications. It has some set of rules, instructions and some boundations which makes it different from a library. Since they are often built, tested, and optimized by several experienced software engineers and programmers, software frameworks are versatile, robust, and efficient.
+
 **Function** -  The block of code that you can call by name, A function is independent of an object.
 
 **Function & variable naming conventions** - A naming convention is a set of rules for choosing the character sequence to be used for identifiers which denote variables, types, functions, and other entities in source code and documentation.
@@ -80,6 +82,8 @@ An **IDE** - Stands for ‘Integrated Development Environment’. It is somewher
 ```
 
 **Kernel** - Kernel is a piece of software running as a communicator between regular software and hardware, containing all the lower-level functions to talk to the hardware and providing an API for the software to modify the state of hardware interfaces securely. Example - The Linux Kernel
+
+**Library** - It is simply a collection of functions which can be added to your application and the functions called as necessary, just like any other functions in the application. More precisely any object, not only functions can be stored in a library, but the vast majority of libraries only contain functions.
 
 **Local/locally** - On your computer 
 _“You can access it locally”_ 
@@ -132,3 +136,79 @@ _“We need to access this remotely, do you have your login details?”_
 
  **UX** - Stands for User Experience, and is used to describe the way that a user navigates around and interacts with your site/app. UX is the _feel_ of the site. Linked with **UI**
 
+**HTTP Status Codes**
+
+**1xx** - Informational
+- **100** - Continue
+- **101** - Switching Protocols
+- **102** - Processing
+- **103** - Early Hints
+
+**2xx** - Success
+- **200** - OK
+- **201** - Created
+- **202** - Accepted
+- **203** - Non-Authoritative Information
+- **204** - No Content
+- **205** - Reset Content
+- **206** - Partial Content
+- **207** - Multi-Status
+- **208** - Already Reported
+- **226** - IM Used
+
+**3xx** - Redirection
+- **300** - Multiple Choices
+- **301** - Moved Permanently
+- **302** - Found
+- **303** - See Other
+- **304** - Not Modified
+- **305** - Use Proxy
+- **306** - Switch Proxy
+- **307** - Temporary Redirect
+- **308** - Permanent Redirect
+
+**4xx** - Client Error
+- **400** - Bad Request
+- **401** - Unauthorized
+- **402** - Payment Required
+- **403** - Forbidden
+- **404** - Not Found
+- **405** - Method Not Allowed
+- **406** - Not Acceptable
+- **407** - Proxy Authentication Required
+- **408** - Request Timeout
+- **409** - Conflict
+- **410** - Gone
+- **411** - Length Required
+- **412** - Precondition Failed
+- **413** - Payload Too Large
+- **414** - URI Too Long
+- **415** - Unsupported Media Type
+- **416** - Range Not Satisfiable
+- **417** - Expectation Failed
+- **418** - I'm a teapot
+- **421** - Misdirected Request
+- **422** - Unprocessable Entity
+- **423** - Locked
+- **424** - Failed Dependency
+- **425** - Too Early
+- **426** - Upgrade Required
+- **428** - Precondition Required
+- **429** - Too Many Requests
+- **431** - Request Header Fields Too Large
+- **451** - Unavailable For Legal Reasons
+
+**5xx** - Server Error (Whoops, backend dev broke something!)
+- **500** - Internal Server Error
+- **501** - Not Implemented
+- **502** - Bad Gateway
+- **503** - Service Unavailable
+- **504** - Gateway Timeout
+- **505** - HTTP Version Not Supported
+- **506** - Variant Also Negotiates
+- **507** - Insufficient Storage
+- **508** - Loop Detected
+- **510** - Not Extended
+- **511** - Network Authentication Required
+
+A detailed explanation of each status can be found [here](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes).

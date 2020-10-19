@@ -1,6 +1,7 @@
 # newbieDictionary
-**I want to make this Open Source (definition in the dictionary!) to enable us all to add and learn from each other!
-I want YOU to contribute. Click 'fork repository' (in the three dots button), make your additions in this 'own version', and then create a pull request (definition below) to put it back into this main version! I'll review it and then add it in ** 😄
+**I want to make this Open Source (definition in the dictionary!) to enable us all to add and learn from each other!**
+
+**I want YOU to contribute. Click 'fork repository' (in the three dots button), make your additions in this 'own version', and then create a pull request (definition below) to put it back into this main version! I'll review it and then add it in ** 😄
 
 
 I have been thinking about making this for some time, but I wanted to make sure that I had enough knowledge about random tech words before I started... 

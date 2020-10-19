@@ -134,3 +134,13 @@ An **IDE** - Stands for ‘Integrated Development Environment’. It is somewher
 
 
 **ASCII** 
+
+**Function & variable naming conventions** - A naming convention is a set of rules for choosing the character sequence to be used for identifiers which denote variables, types, functions, and other entities in source code and documentation.
+ - Camel Case: Writing names without spaces or punctuation, indicating the separation of words with a single capitalized letter.
+    Example:
+     - helloWorld
+     - newbieDictionary
+ - Pascal Case: Making the first letter of each word capitalized. Often used when writing code to name functions, classes, and other objects.
+    Example:
+     - Car
+     - LinkedList

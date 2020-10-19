@@ -42,6 +42,8 @@ _”Navigate to the correct directory”_ = go to the right folder.
 
 **Environment** - where you are working within your computer. For example, if you are making a webpage, your environment would be a **text editor** or **IDE** and the browser window. 
 
+**Framework** - A framework is a platform for developing software applications. It has some set of rules, instructions and some boundations which makes it different from a library. Since they are often built, tested, and optimized by several experienced software engineers and programmers, software frameworks are versatile, robust, and efficient.
+
 **Function** -  The block of code that you can call by name, A function is independent of an object.
 
 **Function & variable naming conventions** - A naming convention is a set of rules for choosing the character sequence to be used for identifiers which denote variables, types, functions, and other entities in source code and documentation.
@@ -78,6 +80,8 @@ An **IDE** - Stands for ‘Integrated Development Environment’. It is somewher
 ```
 
 **Kernel** - Kernel is a piece of software running as a communicator between regular software and hardware, containing all the lower-level functions to talk to the hardware and providing an API for the software to modify the state of hardware interfaces securely. Example - The Linux Kernel
+
+**Library** - It is simply a collection of functions which can be added to your application and the functions called as necessary, just like any other functions in the application. More precisely any object, not only functions can be stored in a library, but the vast majority of libraries only contain functions.
 
 **Local/locally** - On your computer 
 _“You can access it locally”_ 

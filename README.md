@@ -135,6 +135,7 @@ An **IDE** - Stands for ‘Integrated Development Environment’. It is somewher
 
 **ASCII** 
 
+
 **Function & variable naming conventions** - A naming convention is a set of rules for choosing the character sequence to be used for identifiers which denote variables, types, functions, and other entities in source code and documentation.
  - Camel Case: Writing names without spaces or punctuation, indicating the separation of words with a single capitalized letter.
     Example:
@@ -144,3 +145,9 @@ An **IDE** - Stands for ‘Integrated Development Environment’. It is somewher
     Example:
      - Car
      - LinkedList
+
+**API** - Stands for Application Programming Interface, which provides a comprehensive layer of communication and callbacks to the original software layer, so that it becomes easier to integrate. Example- The google maps API allows you to integrate their maps to your apps through their API.
+
+**Cryptography** - It is the art of hiding secrets and researching for secure communications, to protect them from third parties.
+
+**Kernel** - Kernel is a piece of software running as a communicator between regular software and hardware, containing all the lower-level functions to talk to the hardware and providing an API for the software to modify the state of hardware interfaces securely. Example - The Linux Kernel

@@ -28,19 +28,7 @@ There are sometimes multiple words for the same thing, again - just to be confus
 **ASCII** 
 
 
-**Function & variable naming conventions** - A naming convention is a set of rules for choosing the character sequence to be used for identifiers which denote variables, types, functions, and other entities in source code and documentation.
- - Camel Case: Writing names without spaces or punctuation, indicating the separation of words with a single capitalized letter.
-    Example:
-     - helloWorld
-     - newbieDictionary
- - Pascal Case: Making the first letter of each word capitalized. Often used when writing code to name functions, classes, and other objects.
-    Example:
-     - Car
-     - LinkedList
- - kabab-case: Putting a hyphen between words in order to improve readability while allowing them to be used as variables in code.
-    Example:
-     - hello-world
-     - active-multiplier
+
 **API** - Stands for Application Programming Interface, which provides a comprehensive layer of communication and callbacks to the original software layer, so that it becomes easier to integrate. Example- The google maps API allows you to integrate their maps to your apps through their API.
 
                                                             📖
@@ -61,6 +49,20 @@ _”Navigate to the correct directory”_ = go to the right folder.
 **Environment** - where you are working within your computer. For example, if you are making a webpage, your environment would be a **text editor** or **IDE** and the browser window. 
 
 **Function** -  The block of code that you can call by name, A function is independent of an object.
+
+**Function & variable naming conventions** - A naming convention is a set of rules for choosing the character sequence to be used for identifiers which denote variables, types, functions, and other entities in source code and documentation.
+ - Camel Case: Writing names without spaces or punctuation, indicating the separation of words with a single capitalized letter.
+    Example:
+     - helloWorld
+     - newbieDictionary
+ - Pascal Case: Making the first letter of each word capitalized. Often used when writing code to name functions, classes, and other objects.
+    Example:
+     - Car
+     - LinkedList
+ - kabab-case: Putting a hyphen between words in order to improve readability while allowing them to be used as variables in code.
+    Example:
+     - hello-world
+     - active-multiplier
 
 **Git** - The name of a version control system. Involves branches and trees, pushing and pulling. All in all a great time. 
 

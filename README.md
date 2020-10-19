@@ -69,9 +69,11 @@ An **IDE** - Stands for ‘Integrated Development Environment’. It is somewher
 
 **Environment** - where you are working within your computer. For example, if you are making a webpage, your environment would be a **text editor** or **IDE** and the browser window. 
 
-**Version Control** - A system for managing changes and edits made to a document. Popular version control systems (VCS) include Git and Bitbucket. 
+**Version Control** or **Source Control** - A system for managing changes and edits made to a document. Popular version control systems (VCS) include Git and Subversion (SVN).
 
 **Git** - The name of a version control system. Involves branches and trees, pushing and pulling. All in all a great time. 
+
+**GitHub** - The name of a hosting service for storing and interacting with git repositories. GitHub provides additional collaboration tools on top of git, such as Pull Requests, Issues/bug reports, wiki, and other features. Other popular git hosting services include BitBucket and GitLab.
 
 **Objects** - In code, you can create an ‘object’ that you can refer to later, for example you can create a ‘person’ with a first name and last name, an age, and an eye colour. This can then be used again if you wanted to create another ‘person’ 
 
@@ -87,20 +89,15 @@ An **IDE** - Stands for ‘Integrated Development Environment’. It is somewher
 
 **JSON** - JSON stands for JavaScript Object Notation. JSON is a common data format (a way data is written), originally derived from JavaScript, many programming languages now have the ability to use JSON. JSON data types include: number, string, boolean, array, object, or null. Basic JSON might look like this:  
 
+```json
 { 
-
     firstName: “Faye”, 
-
     lastName: “Sipiano”, 
-
     age: 27, 
-
     eyeColor: “blue”, 
-
-}, 
-
+}
+```
  
-
 **The DOM** - Always in capitals like that. A place in the browser to see a page’s HTML, CSS, and JavaScript all working together like a happy little family. You can type in it and add stuff. Useful when making a website and you want something to look a particular way. 
 
  

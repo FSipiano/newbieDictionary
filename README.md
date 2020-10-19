@@ -22,6 +22,10 @@ I have tried to gather a few words/phrases and definitions together here to help
 
 There are sometimes multiple words for the same thing, again - just to be confusing. I’ve tried to include all definitions that I’ve heard, but please let me know if I’ve missed any!
 
+
+
+                                                            📖
+
 **Refactor** - means to look over and rewrite your code in a different way. Maybe you learned a better way to do it, so you rewrite it. 
 
 _”I’m going to spend today refactoring old code because I learned so much since I first wrote it!”_ 

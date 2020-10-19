@@ -26,34 +26,34 @@ There are sometimes multiple words for the same thing, again - just to be confus
 
 
                                                             📖
+**Boilerplate** (code) - The standard code you need to put into your code in order for it to run. An example is frameworks. Let’s take Bootstrap as an example. To use it, you need to copy and paste in a bunch of code that you get from the official website in order for you to be able to use it. Like a template.
 
+**CLI** - Can also stand for Common Language Infrastructure. A tool, developed by Microsoft, to allow different languages to be understood and interpreted by different computer programs, rather than having to restructure the architecture and build behind it. 
+
+**Directory** - Another word for folder. 
+_”Navigate to the correct directory”_ = go to the right folder.  
+
+**Git** - The name of a version control system. Involves branches and trees, pushing and pulling. All in all a great time. 
+
+**GitHub** - The name of a hosting service for storing and interacting with git repositories. GitHub provides additional collaboration tools on top of git, such as Pull Requests, Issues/bug reports, wiki, and other features. Other popular git hosting services include BitBucket and GitLab.
+
+
+**Local/locally** - On your computer 
+_“You can access it locally”_ 
+
+ 
 **Refactor** - means to look over and rewrite your code in a different way. Maybe you learned a better way to do it, so you rewrite it. 
 
 _”I’m going to spend today refactoring old code because I learned so much since I first wrote it!”_ 
 
- 
-
-**Directory** - Another word for folder. 
-
-_”Navigate to the correct directory”_ = go to the right folder.  
-
- **UX** - Stands for User Experience, and is used to describe the way that a user navigates around and interacts with your site/app. UX is the _feel_ of the site. Linked with **UI**
- 
- **UI** - Stands for User Interface, this is used to describe what the website will generally look like - the buttons and the navigation  bar etc. UI is the _look_ of the site. Linked with **UX**
-
-**Local/locally** - On your computer 
-
-_“You can access it locally”_ 
-
- 
-
 **Remote** - Not on your computer – stored on someone else's machine/server Usually means you need to log in, through a portal or …... to be able to access it. 
 
 _“We need to access this remotely, do you have your login details?”_ 
-
+ **UX** - Stands for User Experience, and is used to describe the way that a user navigates around and interacts with your site/app. UX is the _feel_ of the site. Linked with **UI**
+ 
+ **UI** - Stands for User Interface, this is used to describe what the website will generally look like - the buttons and the navigation  bar etc. UI is the _look_ of the site. Linked with **UX**
  
 
-**Boilerplate** (code) - The standard code you need to put into your code in order for it to run. An example is frameworks. Let’s take Bootstrap as an example. To use it, you need to copy and paste in a bunch of code that you get from the official website in order for you to be able to use it. Like a template. 
 
 **PR** - stands for 'pull request'. Means that you are requesting that the changes or edits you have made be reviewed and eventually merged (in **git**)
 
@@ -61,7 +61,6 @@ _“We need to access this remotely, do you have your login details?”_
 
 **Terminal** or **CLI** - The place where you type commands directly to the computer. You don’t need this at the beginning, but at least you know what it is.... It looks like a small word document but is black and makes you feel like a hacker. Some people get really excited about it. CLI stands for ‘Command Line Interface’. 
 
-**CLI** - Can also stand for Common Language Infrastructure. A tool, developed by Microsoft, to allow different languages to be understood and interpreted by different computer programs, rather than having to restructure the architecture and build behind it. 
 
 **Text editor** - Somewhere that you can write code. Microsoft Word is a text editor. Notepad is a text editor. It is pretty much just somewhere that you can hit the keyboard and stuff appears... 
 
@@ -73,9 +72,7 @@ An **IDE** - Stands for ‘Integrated Development Environment’. It is somewher
 
 **Version Control** or **Source Control** - A system for managing changes and edits made to a document. Popular version control systems (VCS) include Git and Subversion (SVN).
 
-**Git** - The name of a version control system. Involves branches and trees, pushing and pulling. All in all a great time. 
 
-**GitHub** - The name of a hosting service for storing and interacting with git repositories. GitHub provides additional collaboration tools on top of git, such as Pull Requests, Issues/bug reports, wiki, and other features. Other popular git hosting services include BitBucket and GitLab.
 
 **Objects** - In code, you can create an ‘object’ that you can refer to later, for example you can create a ‘person’ with a first name and last name, an age, and an eye colour. This can then be used again if you wanted to create another ‘person’ 
 

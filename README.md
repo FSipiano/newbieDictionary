@@ -70,6 +70,8 @@ An **IDE** - Stands for ‘Integrated Development Environment’. It is somewher
 
 ``var person = {firstName:"Faye", lastName:"Sipiano", age:27, eyeColor:"blue"};`` 
 
+**NaN** - Stands for 'Not a Number'. Is a number.
+
 **Destructuring** - This means to unpack values in a data structure such as an Object or Array.  
 
 **Method** -  

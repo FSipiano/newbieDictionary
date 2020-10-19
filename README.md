@@ -60,7 +60,7 @@ _“We need to access this remotely, do you have your login details?”_
 
 **Text editor** - Somewhere that you can write code. Microsoft Word is a text editor. Notepad is a text editor. It is pretty much just somewhere that you can hit the keyboard and stuff appears... 
 
- ####If you need something to do more than that, you need 👇🏻 
+ ##If you need something to do more than that, you need 👇🏻 
 
 An **IDE** - Stands for ‘Integrated Development Environment’. It is somewhere that you write code, and has tools to help you write, structure and test it. Build, test, connect to databases, the works! 
 

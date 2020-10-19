@@ -83,9 +83,9 @@ An **IDE** - Stands for ‘Integrated Development Environment’. It is somewher
 
 **Destructuring** - This means to unpack values in a data structure such as an Object or Array.  
 
-**Method** -  
+**Method** -  The block of code that you can call by name that is associated with an object (in javascript, every function treated as object,So in simple words, A method is on an object)
 
-**Function** -  
+**Function** -  The block of code that you can call by name, A function is independent of an object.
 
 **JSON** - JSON stands for JavaScript Object Notation. JSON is a common data format (a way data is written), originally derived from JavaScript, many programming languages now have the ability to use JSON. JSON data types include: number, string, boolean, array, object, or null. Basic JSON might look like this:  
 

@@ -70,6 +70,8 @@ _”Navigate to the correct directory”_ = go to the right folder.
 
 An **IDE** - Stands for ‘Integrated Development Environment’. It is somewhere that you write code, and has tools to help you write, structure and test it. Build, test, connect to databases, the works! 
 
+**HTTP and HTTPS** - HTTP or Hypertext Transfer Protocol is the set of guidelines for transferring files such as texts, videos, sounds, images, and other multimedia files through the World Wide Web. The moment a Web user opens the browser, the user is indirectly making use of HTTP. HTTPS, on the other hand, stands “Hypertext Transfer Protocol Secure” which means the webpage has a special layer of encryption added to hide your personal details and passwords. Hence, if you wish to secure your bank account details at an online shopping site, look for “https” in the URL.
+
 **JSON** - JSON stands for JavaScript Object Notation. JSON is a common data format (a way data is written), originally derived from JavaScript, many programming languages now have the ability to use JSON. JSON data types include: number, string, boolean, array, object, or null. Basic JSON might look like this:  
 
 ```json
@@ -115,6 +117,8 @@ _“You can access it locally”_
 _”I’m going to spend today refactoring old code because I learned so much since I first wrote it!”_ 
 
 **Remote** - Not on your computer – stored on someone else's machine/server Usually means you need to log in, through a portal or …... to be able to access it. 
+
+**Responsive Web Design** - Responsive web design is the practice of designing websites so that they adapt gracefully to different-sized devices like phones, tablets, wearable devices, etc. If you’re able to visit a website on your phone and it looks just as proportional and seamless as it does on your computer, it’s an example of responsive web design.
   
 **Source Code** - Any collection of code that is displayed in a human readable format. Source code can be sent to a compiler to be translated into machine code for the CPU to utilize. 
 
@@ -126,15 +130,16 @@ _”I’m going to spend today refactoring old code because I learned so much si
 
 **Technical debt** - Extra development work that arises when code that is easy to implement in the short run is used instead of applying the best overall solution. If you keep implementing short term solutions, you'll soon be paying a lot of interest (Time, money) when adding new features because the codebase will be a mess.
 
-
 **Text editor** - Somewhere that you can write code. Microsoft Word is a text editor. Notepad is a text editor. It is pretty much just somewhere that you can hit the keyboard and stuff appears... 
 _“We need to access this remotely, do you have your login details?”_ 
 
- **UI** - Stands for User Interface, this is used to describe what the website will generally look like - the buttons and the navigation  bar etc. UI is the _look_ of the site. Linked with **UX**
-
-**Version Control** or **Source Control** - A system for managing changes and edits made to a document. Popular version control systems (VCS) include Git and Subversion (SVN).
+ **UI** - Stands for User Interface, this is used to describe what the website will generally look like - the buttons and the navigation  bar etc. UI is the _look_ of the site. Linked with **UX*
 
  **UX** - Stands for User Experience, and is used to describe the way that a user navigates around and interacts with your site/app. UX is the _feel_ of the site. Linked with **UI**
+
+ **Version Control** or **Source Control** - A system for managing changes and edits made to a document. Popular version control systems (VCS) include Git and Subversion (SVN).
+
+**Virtual Machine (VM)** - Virtual machine is software that makes it possible to use one computer operating system (like Linux) on a computer running another system (like MacOS). Examples include Virtual Box, Parallels, and VM Ware.
 
 **HTTP Status Codes**
 

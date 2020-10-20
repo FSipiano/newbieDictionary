@@ -66,7 +66,7 @@ _”Navigate to the correct directory”_ = go to the right folder.
 
 **GitHub** - The name of a hosting service for storing and interacting with git repositories. GitHub provides additional collaboration tools on top of git, such as Pull Requests, Issues/bug reports, wiki, and other features. Other popular git hosting services include BitBucket and GitLab.
 
- ##If you need something to do more than that, you need 👇🏻 
+ ## If you need something to do more than that, you need 👇🏻 
 
 An **IDE** - Stands for ‘Integrated Development Environment’. It is somewhere that you write code, and has tools to help you write, structure and test it. Build, test, connect to databases, the works! 
 

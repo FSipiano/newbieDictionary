@@ -134,44 +134,60 @@ In code, you can create an ‘object’ that you can refer to later, for example
 #### **Open source** - 
 A project or repository that anyone can request to make changes or updates to. This is a good way to learn. For example, this dictionary is Open Source.
  
-**Pseudocode** - A human-readable explanation of how something should work – the way and order that it runs in. Pseudocode does not have to follow the rules of any programming language. It is a description of what the code in a program is doing so that even non-technical individuals can understand its logic. 
+#### **Pseudocode** - 
+A human-readable explanation of how something should work – the way and order that it runs in. Pseudocode does not have to follow the rules of any programming language. It is a description of what the code in a program is doing so that even non-technical individuals can understand its logic. 
 
-**PR** - stands for 'pull request'. Means that you are requesting that the changes or edits you have made be reviewed and eventually merged (in **git**)
+#### **PR** - 
+Stands for 'pull request'. Means that you are requesting that the changes or edits you have made be reviewed and eventually merged (in **git**)
 
-**PR** - also a marketing term meaning 'Press release'. Means anything going out to be published into the wide world for others to see. You could create a PR for a PR I suppose...
+#### **PR** - 
+Also a marketing term meaning 'Press release'. Means anything going out to be published into the wide world for others to see. You could create a PR for a PR I suppose...
 
-**Repository** - A house for your code, stored online. Repositories are collections of source code 
+#### **Repository** - 
+A house for your code, stored online. Repositories are collections of source code 
 
-**Refactor** - means to look over and rewrite your code in a different way. Maybe you learned a better way to do it, so you rewrite it. 
-
+#### **Refactor** - 
+Means to look over and rewrite your code in a different way. Maybe you learned a better way to do it, so you rewrite it. 
 _”I’m going to spend today refactoring old code because I learned so much since I first wrote it!”_ 
 
-**Remote** - Not on your computer – stored on someone else's machine/server Usually means you need to log in, through a portal or …... to be able to access it. 
+#### **Remote** - 
+Not on your computer – stored on someone else's machine/server. Usually means you need to log in, through a portal or …... to be able to access it. 
 
-**Responsive Web Design** - Responsive web design is the practice of designing websites so that they adapt gracefully to different-sized devices like phones, tablets, wearable devices, etc. If you’re able to visit a website on your phone and it looks just as proportional and seamless as it does on your computer, it’s an example of responsive web design.
+#### **Responsive Web Design** - 
+The practice of designing websites so that they adapt gracefully to different-sized devices like phones, tablets, wearable devices, etc. If you’re able to visit a website on your phone and it looks just as proportional and seamless as it does on your computer, it’s an example of responsive web design.
   
-**Source Code** - Any collection of code that is displayed in a human readable format. Source code can be sent to a compiler to be translated into machine code for the CPU to utilize. 
+#### **Source Code** - 
+Any collection of code that is displayed in a human readable format. Source code can be sent to a compiler to be translated into machine code for the CPU to utilize. 
 
-**Scrum/Agile** - Methodical frameworks for organizing, developing, delivering and maintaining software. Scrum and Agile disciplines can be applied to a wide variety of fields but has been a popular choice in software development due to its effective approach to handling very complex tasks. 
+#### **Scrum/Agile** - 
+Methodical frameworks for organizing, developing, delivering and maintaining software. Scrum and Agile disciplines can be applied to a wide variety of fields but has been a popular choice in software development due to its effective approach to handling very complex tasks. 
 
-**Terminal** or **CLI** - The place where you type commands directly to the computer. You don’t need this at the beginning, but at least you know what it is.... It looks like a small word document but is black and makes you feel like a hacker. Some people get really excited about it. CLI stands for ‘Command Line Interface’. 
+#### **Terminal** or **CLI** - 
+The place where you type commands directly to the computer. You don’t need this at the beginning, but at least you know what it is.... It looks like a small word document but is black and makes you feel like a hacker. Some people get really excited about it. CLI stands for ‘Command Line Interface’. 
 
-**Transpile** - The process of turning code from one language into another. Examples include: TypeScript transpiled into JavaScript, CoffeeScript transpiled into JavaScript, Earl Grey being transpiled into JavaScript, JavaScript being transpiled into JavaScript. You’ll notice a trend. 
+#### **Transpile** - 
+The process of turning code from one language into another. Examples include: TypeScript transpiled into JavaScript, CoffeeScript transpiled into JavaScript, Earl Grey being transpiled into JavaScript, JavaScript being transpiled into JavaScript. You’ll notice a trend. 
 
-**Technical debt** - Extra development work that arises when code that is easy to implement in the short run is used instead of applying the best overall solution. If you keep implementing short term solutions, you'll soon be paying a lot of interest (Time, money) when adding new features because the codebase will be a mess.
+#### **Technical debt** - 
+Extra development work that arises when code that is easy to implement in the short run is used instead of applying the best overall solution. If you keep implementing short term solutions, you'll soon be paying a lot of interest (Time, money) when adding new features because the codebase will be a mess.
 
-**Text editor** - Somewhere that you can write code. Microsoft Word is a text editor. Notepad is a text editor. It is pretty much just somewhere that you can hit the keyboard and stuff appears... 
+#### **Text editor** - 
+Somewhere that you can write code. Microsoft Word is a text editor. Notepad is a text editor. It is pretty much just somewhere that you can hit the keyboard and stuff appears... 
 _“We need to access this remotely, do you have your login details?”_ 
 
- **UI** - Stands for User Interface, this is used to describe what the website will generally look like - the buttons and the navigation  bar etc. UI is the _look_ of the site. Linked with **UX*
+#### **UI** - 
+Stands for User Interface, this is used to describe what the website will generally look like - the buttons and the navigation  bar etc. UI is the _look_ of the site. Linked with **UX*
 
- **UX** - Stands for User Experience, and is used to describe the way that a user navigates around and interacts with your site/app. UX is the _feel_ of the site. Linked with **UI**
+#### **UX** - 
+Stands for User Experience, and is used to describe the way that a user navigates around and interacts with your site/app. UX is the _feel_ of the site. Linked with **UI**
 
- **Version Control** or **Source Control** - A system for managing changes and edits made to a document. Popular version control systems (VCS) include Git and Subversion (SVN).
+#### **Version Control** or **Source Control** - 
+A system for managing changes and edits made to a document. Popular version control systems (VCS) include Git and Subversion (SVN).
 
-**Virtual Machine (VM)** - Virtual machine is software that makes it possible to use one computer operating system (like Linux) on a computer running another system (like MacOS). Examples include Virtual Box, Parallels, and VM Ware.
+#### **Virtual Machine (VM)** - 
+Software that makes it possible to use one computer operating system (like Linux) on a computer running another system (like MacOS). Examples include Virtual Box, Parallels, and VM Ware.
 
-**HTTP Status Codes**
+#### **HTTP Status Codes**
 
 **1xx** - Informational
 - **100** - Continue

@@ -162,6 +162,9 @@ Any collection of code that is displayed in a human readable format. Source code
 #### **Scrum/Agile** - 
 Methodical frameworks for organizing, developing, delivering and maintaining software. Scrum and Agile disciplines can be applied to a wide variety of fields but has been a popular choice in software development due to its effective approach to handling very complex tasks. 
 
+#### **Syntactic sugar** - 
+Syntax within a programming language that is designed to make things easier to read or to express.
+
 #### **Terminal** or **CLI** - 
 The place where you type commands directly to the computer. You don’t need this at the beginning, but at least you know what it is.... It looks like a small word document but is black and makes you feel like a hacker. Some people get really excited about it. CLI stands for ‘Command Line Interface’. 
 

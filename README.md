@@ -25,32 +25,45 @@ There are sometimes multiple words for the same thing, again - just to be confus
                                                                              📖
 
 
-**A11y** - A numeronym for accessibility, where the number 11 refers to the number of letters omitted. A11y refers to the accessibility of a computer system to all people, regardless of disability type or severity of impairment.
+#### A11y - 
+A numeronym for accessibility, where the number 11 refers to the number of letters omitted. A11y refers to the accessibility of a computer system to all people, regardless of disability type or severity of impairment.
 
-**API** - Stands for Application Programming Interface, which provides a comprehensive layer of communication and callbacks to the original software layer, so that it becomes easier to integrate. Example- The google maps API allows you to integrate their maps to your apps through their API.
+#### API - 
+Stands for Application Programming Interface, which provides a comprehensive layer of communication and callbacks to the original software layer, so that it becomes easier to integrate. Example- The google maps API allows you to integrate their maps to your apps through their API.
 
-**ASCII** - Stands for 'American Standard Code for Information Interchange'. It is the set of common characters use in electronic communication, based in English alphabet, numbers, punctuation symbols and non-printing control characters (like Escape, Tabulation, Backspace, End of Line, etc). This standard is the base line to newer sets of characters like UTF-8 standard, that extends ASCII including new characters like Latin or German characters by example.
+#### ASCII - 
+Stands for 'American Standard Code for Information Interchange'. It is the set of common characters use in electronic communication, based in English alphabet, numbers, punctuation symbols and non-printing control characters (like Escape, Tabulation, Backspace, End of Line, etc). This standard is the base line to newer sets of characters like UTF-8 standard, that extends ASCII including new characters like Latin or German characters by example.
                                                            
-**Boilerplate** (code) - The standard code you need to put into your code in order for it to run. An example is frameworks. Let’s take Bootstrap as an example. To use it, you need to copy and paste in a bunch of code that you get from the official website in order for you to be able to use it. Like a template.
+#### Boilerplate (code) - 
+The standard code you need to put into your code in order for it to run. An example is frameworks. Let’s take Bootstrap as an example. To use it, you need to copy and paste in a bunch of code that you get from the official website in order for you to be able to use it. Like a template.
 
-**CLI** - Can also stand for Common Language Infrastructure. A tool, developed by Microsoft, to allow different languages to be understood and interpreted by different computer programs, rather than having to restructure the architecture and build behind it. 
+#### CLI - 
+Can also stand for Common Language Infrastructure. A tool, developed by Microsoft, to allow different languages to be understood and interpreted by different computer programs, rather than having to restructure the architecture and build behind it. 
 
-**Cryptography** - It is the art of hiding secrets and researching for secure communications, to protect them from third parties.
+#### Cryptography - 
+The art of hiding secrets and researching for secure communications, to protect them from third parties.
 
-**Directory** - Another word for folder. 
+#### Directory - 
+Another word for folder. 
 _”Navigate to the correct directory”_ = go to the right folder.  
  
-**The DOM** - Always in capitals like that. A place in the browser to see a page’s HTML, CSS, and JavaScript all working together like a happy little family. You can type in it and add stuff. Useful when making a website and you want something to look a particular way. 
+#### The DOM - 
+Always in capitals like that. A place in the browser to see a page’s HTML, CSS, and JavaScript all working together like a happy little family. You can type in it and add stuff. Useful when making a website and you want something to look a particular way. 
 
-**Destructuring** - This means to unpack values in a data structure such as an Object or Array.  
+#### Destructuring - 
+This means to unpack values in a data structure such as an Object or Array.  
 
-**Environment** - where you are working within your computer. For example, if you are making a webpage, your environment would be a **text editor** or **IDE** and the browser window. 
+#### Environment - 
+Where you are working within your computer. For example, if you are making a webpage, your environment would be a **text editor** or **IDE** and the browser window. 
 
-**Framework** - A framework is a platform for developing software applications. It has some set of rules, instructions and some boundations which makes it different from a library. Since they are often built, tested, and optimized by several experienced software engineers and programmers, software frameworks are versatile, robust, and efficient.
+#### Framework - 
+A platform for developing software applications. It has rules, instructions and some boundations which makes it different from a library. Since they are often built, tested, and optimized by several experienced software engineers and programmers, software frameworks are versatile, robust, and efficient. It is a language written to help you to write code easier. Often comes with **boilerplate** code to get you started.
 
-**Function** -  The block of code that you can call by name, A function is independent of an object.
+#### Function -  
+The block of code that you can call by name, a function is independent of an object.
 
-**Function & variable naming conventions** - A naming convention is a set of rules for choosing the character sequence to be used for identifiers which denote variables, types, functions, and other entities in source code and documentation.
+#### Function & variable naming conventions - 
+A naming convention is a set of rules for choosing the character sequence to be used for identifiers which denote variables, types, functions, and other entities in source code and documentation.
  - Camel Case: Writing names without spaces or punctuation, indicating the separation of words with a single capitalized letter.
     Example:
      - helloWorld
@@ -64,17 +77,23 @@ _”Navigate to the correct directory”_ = go to the right folder.
      - hello-world
      - active-multiplier
 
-**Git** - The name of a version control system. Involves branches and trees, pushing and pulling. All in all a great time. 
+#### **Git** - 
+The name of a version control system. Involves branches and trees, pushing and pulling. All in all a great time. 
 
-**GitHub** - The name of a hosting service for storing and interacting with git repositories. GitHub provides additional collaboration tools on top of git, such as Pull Requests, Issues/bug reports, wiki, and other features. Other popular git hosting services include BitBucket and GitLab.
+#### **GitHub** - 
+The name of a hosting service for storing and interacting with git repositories. GitHub provides additional collaboration tools on top of git, such as Pull Requests, Issues/bug reports, wiki, and other features. Other popular git hosting services include BitBucket and GitLab.
 
- ## If you need something to do more than that, you need 👇🏻 
+#### An **IDE** - 
+Stands for ‘Integrated Development Environment’. It is somewhere that you write code, and has tools to help you write, structure and test it. Build, test, connect to databases, the works! 
 
-An **IDE** - Stands for ‘Integrated Development Environment’. It is somewhere that you write code, and has tools to help you write, structure and test it. Build, test, connect to databases, the works! 
+#### HTTP - 
+HTTP or Hypertext Transfer Protocol is the set of guidelines for transferring files such as texts, videos, sounds, images, and other multimedia files through the World Wide Web. The moment a Web user opens the browser, the user is indirectly making use of HTTP. 
 
-**HTTP and HTTPS** - HTTP or Hypertext Transfer Protocol is the set of guidelines for transferring files such as texts, videos, sounds, images, and other multimedia files through the World Wide Web. The moment a Web user opens the browser, the user is indirectly making use of HTTP. HTTPS, on the other hand, stands “Hypertext Transfer Protocol Secure” which means the webpage has a special layer of encryption added to hide your personal details and passwords. Hence, if you wish to secure your bank account details at an online shopping site, look for “https” in the URL.
+#### HTTPS
+Stands for “Hypertext Transfer Protocol Secure” which means the webpage has a special layer of encryption added to hide your personal details and passwords. Hence, if you wish to secure your bank account details at an online shopping site, look for “https” in the URL.
 
-**JSON** - JSON stands for JavaScript Object Notation. JSON is a common data format (a way data is written), originally derived from JavaScript, many programming languages now have the ability to use JSON. JSON data types include: number, string, boolean, array, object, or null. Basic JSON might look like this:  
+#### **JSON** - 
+Stands for JavaScript Object Notation. JSON is a common data format (a way data is written), originally derived from JavaScript, many programming languages now have the ability to use JSON. JSON data types include: number, string, boolean, array, object, or null. Basic JSON might look like this:  
 
 ```json
 { 
@@ -85,26 +104,35 @@ An **IDE** - Stands for ‘Integrated Development Environment’. It is somewher
 }
 ```
 
-**Kernel** - Kernel is a piece of software running as a communicator between regular software and hardware, containing all the lower-level functions to talk to the hardware and providing an API for the software to modify the state of hardware interfaces securely. Example - The Linux Kernel
+#### **Kernel** - 
+A piece of software running as a communicator between regular software and hardware, containing all the lower-level functions to talk to the hardware and providing an API for the software to modify the state of hardware interfaces securely. Example - The Linux Kernel
 
-**Library** - It is simply a collection of functions which can be added to your application and the functions called as necessary, just like any other functions in the application. More precisely any object, not only functions can be stored in a library, but the vast majority of libraries only contain functions.
+#### **Library** - 
+A collection of functions which can be added to your application and the functions called as necessary, just like any other functions in the application. More precisely any object, not only functions can be stored in a library, but the vast majority of libraries only contain functions.
 
-**Local/locally** - On your computer 
+#### **Local/locally** - 
+On your computer 
 _“You can access it locally”_ 
 
-**Method** -  The block of code that you can call by name that is associated with an object (in javascript, every function treated as object,So in simple words, A method is on an object)
+#### **Method** -  
+The block of code that you can call by name that is associated with an object (in javascript, every function treated as object,So in simple words, A method is on an object)
 
-**Manipulating the DOM** - Just means changing something (usually JavaScript) in the DOM.
+#### **Manipulating the DOM** - 
+Just means changing something (usually JavaScript) in the DOM.
 
-**Machine Learning** - A realm of study within the domain of artificial intelligence that aims to develop techniques in software which allow machines to learn through experience. 
+#### **Machine Learning** - 
+A realm of study within the domain of artificial intelligence that aims to develop techniques in software which allow machines to learn through experience. 
 
-**NaN** - Stands for 'Not a Number'. Is a number.
+#### **NaN** - 
+Stands for 'Not a Number'. Is a number.
 
-**Objects** - In code, you can create an ‘object’ that you can refer to later, for example you can create a ‘person’ with a first name and last name, an age, and an eye colour. This can then be used again if you wanted to create another ‘person’ 
+#### **Objects** - 
+In code, you can create an ‘object’ that you can refer to later, for example you can create a ‘person’ with a first name and last name, an age, and an eye colour. This can then be used again if you wanted to create another ‘person’ 
 
 ``var person = {firstName:"Faye", lastName:"Sipiano", age:27, eyeColor:"blue"};`` 
 
-**Open source** - A project or repository that anyone can request to make changes or updates to. This is a good way to learn. 
+#### **Open source** - 
+A project or repository that anyone can request to make changes or updates to. This is a good way to learn. For example, this dictionary is Open Source.
  
 **Pseudocode** - A human-readable explanation of how something should work – the way and order that it runs in. Pseudocode does not have to follow the rules of any programming language. It is a description of what the code in a program is doing so that even non-technical individuals can understand its logic. 
 

@@ -37,6 +37,44 @@ Stands for 'American Standard Code for Information Interchange'. It is the set o
 #### Boilerplate (code) - 
 The standard code you need to put into your code in order for it to run. An example is frameworks. Let’s take Bootstrap as an example. To use it, you need to copy and paste in a bunch of code that you get from the official website in order for you to be able to use it. Like a template.
 
+#### Callback function - 
+
+A function (Plug-in) passed as an argument to another function or method (Worker). The function Worker call the function Plug-in within its context with the corresponding data, e.i.:
+
+```javascript
+
+// Notify functions are our Plug-ins
+
+function notifyByAlert(msg) {
+  alert(msg)
+}
+
+function notifyByConsole(msg) {
+  console.log(msg)
+}
+
+function notifyBySweetAlert(msg) {
+  Swal.fire({
+    icon: 'info',
+    title: msg
+  })
+}
+
+// This function is our Worker
+function greetings(name, callback)  {
+  let message = `Hello ${name}`
+  callback(message)
+}
+
+// Here we'll inject our Plug-in functions, in other words, a callback
+
+greetings('Test #1', notifyByAlert)
+greetings('Test #2', notifyByConsole)
+greetings('Test #3', notifyBySweetAlert) // this one require sweet alert 2 lib
+
+
+```
+
 #### CLI - 
 Can also stand for Common Language Infrastructure. A tool, developed by Microsoft, to allow different languages to be understood and interpreted by different computer programs, rather than having to restructure the architecture and build behind it. 
 

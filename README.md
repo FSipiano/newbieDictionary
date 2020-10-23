@@ -76,6 +76,9 @@ greetings('Test #3', notifyBySweetAlert) // this one require sweet alert 2 lib
 ```
 
 #### CLI - 
+
+See [Terminal or Cli](#terminal-or-cli--)
+
 Can also stand for Common Language Infrastructure. A tool, developed by Microsoft, to allow different languages to be understood and interpreted by different computer programs, rather than having to restructure the architecture and build behind it. 
 
 #### Cryptography - 
@@ -86,7 +89,7 @@ Another word for folder.
 _”Navigate to the correct directory”_ = go to the right folder.  
  
 #### The DOM - 
-Always in capitals like that. A place in the browser to see a page’s HTML, CSS, and JavaScript all working together like a happy little family. You can type in it and add stuff. Useful when making a website and you want something to look a particular way. 
+See [Manipulating the DOM](#manipulating-the-dom--)
 
 #### Destructuring - 
 This means to unpack values in a data structure such as an Object or Array.  
@@ -160,6 +163,8 @@ A collection of functions which can be added to your application and the functio
 On your computer 
 _“You can access it locally”_ 
 
+For the opposite of Local, see [Remote](#remote-)
+
 #### **Method** -  
 The block of code that you can call by name that is associated with an object (in javascript, every function treated as object,So in simple words, A method is on an object)
 
@@ -199,6 +204,8 @@ _”I’m going to spend today refactoring old code because I learned so much si
 #### **Remote** - 
 Not on your computer – stored on someone else's machine/server. Usually means you need to log in, through a portal or …... to be able to access it. 
 
+For the opposite of Remote, see [Local](#locallocally-)
+
 #### **Responsive Web Design** - 
 The practice of designing websites so that they adapt gracefully to different-sized devices like phones, tablets, wearable devices, etc. If you’re able to visit a website on your phone and it looks just as proportional and seamless as it does on your computer, it’s an example of responsive web design.
   
@@ -213,6 +220,8 @@ Syntax within a programming language that is designed to make things easier to r
 
 #### **Terminal** or **CLI** - 
 The place where you type commands directly to the computer. You don’t need this at the beginning, but at least you know what it is.... It looks like a small word document but is black and makes you feel like a hacker. Some people get really excited about it. CLI stands for ‘Command Line Interface’. 
+
+For another definition of CLI, see [CLI](#cli-)
 
 #### **Transpile** - 
 The process of turning code from one language into another. Examples include: TypeScript transpiled into JavaScript, CoffeeScript transpiled into JavaScript, Earl Grey being transpiled into JavaScript, JavaScript being transpiled into JavaScript. You’ll notice a trend. 

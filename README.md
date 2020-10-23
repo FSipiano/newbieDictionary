@@ -114,6 +114,14 @@ A naming convention is a set of rules for choosing the character sequence to be 
     Example:
      - hello-world
      - active-multiplier
+ - snake_case: Putting an underscore between words to improve readability, and for languages where a hyphen would be interpreted as a subtract operation
+    Example:
+     - hello_world
+     - python_rocks
+ - SCREAMING_SNAKE_CASE: snake_case but louder (all caps), often used to easily distinguish macros and constants from variables
+    Example:
+     - HELLO_WORLD
+     - HOST_NAME
 
 #### **Git** - 
 The name of a version control system. Involves branches and trees, pushing and pulling. All in all a great time. 

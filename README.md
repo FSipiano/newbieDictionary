@@ -89,6 +89,8 @@ Another word for folder.
 _”Navigate to the correct directory”_ = go to the right folder.  
  
 #### The DOM - 
+Stands for Document Object Model. Always in capitals like that. A place in the browser to see a page’s HTML, CSS, and JavaScript all working together like a happy little family. You can type in it and add stuff. Useful when making a website and you want something to look a particular way. 
+
 See [Manipulating the DOM](#manipulating-the-dom--)
 
 #### Destructuring - 
@@ -211,6 +213,9 @@ The practice of designing websites so that they adapt gracefully to different-si
   
 #### **Source Code** - 
 Any collection of code that is displayed in a human readable format. Source code can be sent to a compiler to be translated into machine code for the CPU to utilize. 
+
+#### **SPA** - 
+Stands for Single Page Application. A web app that loads with a single browser load. While the app can contain multiple "pages", these are either already pre-loaded, and displayed using Javascript; or content is fetched dynamically using an API without loading a new page (a loading icon may be displayed, or the content fetched in the background while the user scrolls)
 
 #### **Scrum/Agile** - 
 Methodical frameworks for organizing, developing, delivering and maintaining software. Scrum and Agile disciplines can be applied to a wide variety of fields but has been a popular choice in software development due to its effective approach to handling very complex tasks. 

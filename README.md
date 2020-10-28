@@ -227,7 +227,7 @@ Stands for Single Page Application. A web app that loads with a single browser l
 Methodical frameworks for organizing, developing, delivering and maintaining software. Scrum and Agile disciplines can be applied to a wide variety of fields but has been a popular choice in software development due to its effective approach to handling very complex tasks. 
 
 #### **Server-Side Rendering** -
-To load up a client-side or universal app to HTML on the server. Either using Rehydration or Prerendering the app as static HTML on the server. With Server Rendering, users are unlikely to be left waiting for CPU-bound JavaScript to process before they can use your site. Teams often factor in the impact of SEO when choosing a strategy for load up on the web. Server-rendering delivers a "complete looking" exprience crawlers can interpret with ease.   
+To load up a client-side or universal app to HTML on the server. Either using Rehydration or Prerendering the app as static HTML on the server. Teams often factor in the impact of SEO when choosing a strategy for the web. To use SSR or Not. SSR delivers a "complete looking" exprience for crawlers and can interpret code with ease.   
 
 #### **Syntactic sugar** - 
 Syntax within a programming language that is designed to make things easier to read or to express.
@@ -248,7 +248,7 @@ Somewhere that you can write code. Microsoft Word is a text editor. Notepad is a
 _“We need to access this remotely, do you have your login details?”_ 
 
 #### **TTFB** -
-Time to first byte (TTFB) is a measurement used as an indication of the responsiveness of a web server or other network resource. It measures the duration from the user or client making an HTTP request to the first byte of the page being received by the client's browser. Google Chrome Lighthouse reports can describe TTFB.
+Time to first byte (TTFB) is a measurement used as an indication of the responsiveness of a web server. How fast do you see the page? It measures the duration from the user or client making an HTTP request to the first byte of the page being received by the client's browser. Google Chrome Lighthouse reports can describe TTFB.
 
 #### **UI** - 
 Stands for User Interface, this is used to describe what the website will generally look like - the buttons and the navigation  bar etc. UI is the _look_ of the site. Linked with **UX*

@@ -227,8 +227,7 @@ Stands for Single Page Application. A web app that loads with a single browser l
 Methodical frameworks for organizing, developing, delivering and maintaining software. Scrum and Agile disciplines can be applied to a wide variety of fields but has been a popular choice in software development due to its effective approach to handling very complex tasks. 
 
 #### **Server-Side Rendering** -
-The rendering of a client-side or universal app to HTML on the server, through the use of either Rehydration or Prerendering static HTML. With Server Rendering, users are unlikely to be left waiting for CPU-bound JavaScript to process before
-they can use your site. Teams often factor in the impact of SEO when choosing a strategy for rendering on the web. Server-rendering delivers a "complete looking" exprience crawlers can interpret with ease.   
+To render a client-side or universal app to HTML on the server. Either using Rehydration or Prerendering the app as static HTML on the server. With Server Rendering, users are unlikely to be left waiting for CPU-bound JavaScript to process before they can use your site. Teams often factor in the impact of SEO when choosing a strategy for rendering on the web. Server-rendering delivers a "complete looking" exprience crawlers can interpret with ease.   
 
 #### **Syntactic sugar** - 
 Syntax within a programming language that is designed to make things easier to read or to express.

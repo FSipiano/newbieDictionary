@@ -248,7 +248,7 @@ Somewhere that you can write code. Microsoft Word is a text editor. Notepad is a
 _“We need to access this remotely, do you have your login details?”_ 
 
 #### **TTFB** -
-Time to first byte (TTFB) is a measurement used as an indication of the responsiveness of a webserver or other network resource. It measures the duration from the user or client making an HTTP request to the first byte of the page being received by the client's browser. Google Chrome Lighthouse report's can describe TTFB.
+Time to first byte (TTFB) is a measurement used as an indication of the responsiveness of a web server or other network resource. It measures the duration from the user or client making an HTTP request to the first byte of the page being received by the client's browser. Google Chrome Lighthouse reports can describe TTFB.
 
 #### **UI** - 
 Stands for User Interface, this is used to describe what the website will generally look like - the buttons and the navigation  bar etc. UI is the _look_ of the site. Linked with **UX*

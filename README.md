@@ -247,6 +247,9 @@ Extra development work that arises when code that is easy to implement in the sh
 Somewhere that you can write code. Microsoft Word is a text editor. Notepad is a text editor. It is pretty much just somewhere that you can hit the keyboard and stuff appears... 
 _“We need to access this remotely, do you have your login details?”_ 
 
+#### **TTFB** -
+Time to first byte (TTFB) is a mesurement used as an indication of the responsiveness of a webserver or other network resouce. It measures the duration from the user or client making an HTTP request to the first byte of the page being received by the client's browser. 
+
 #### **UI** - 
 Stands for User Interface, this is used to describe what the website will generally look like - the buttons and the navigation  bar etc. UI is the _look_ of the site. Linked with **UX*
 

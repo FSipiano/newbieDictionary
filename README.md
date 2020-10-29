@@ -97,6 +97,9 @@ See [Manipulating the DOM](#manipulating-the-dom--)
 
 #### Double - 
 A double is a double-precision, 64-bit floating-point data type. It accommodates 15 to 16 digits, with a range of approximately 5.0 × 10−345 to 1.7 × 10308.
+- Double precision value
+- Stores up to 15 significant digits
+- Double is costlier, occupies more space and is more effective when more precision is required. For example, currency conversion, financial reports and transactions, scientific calculations etc…
 
 #### Environment - 
 Where you are working within your computer. For example, if you are making a webpage, your environment would be a **text editor** or **IDE** and the browser window. 

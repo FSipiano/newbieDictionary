@@ -241,6 +241,9 @@ Stands for Single Page Application. A web app that loads with a single browser l
 #### String - 
 A string is a data type used in programming, such as an integer and floating point unit, but is used to represent text rather than numbers. It is comprised of a set of characters that can also contain spaces and numbers. For example, the word "hamburger" and the phrase "I ate 3 hamburgers" are both strings. Even "12345" could be considered a string, if specified correctly. Typically, programmers must enclose strings in quotation marks for the data to recognized as a string and not a number or variable name.
 
+#### **Server-Side Rendering** -
+To load up a client-side or universal app to HTML on the server. Either using Rehydration or Prerendering the app as static HTML on the server. Teams often factor in the impact of SEO when choosing a strategy for the web. To use SSR or Not. SSR delivers a "complete looking" exprience for crawlers and can interpret code with ease.   
+
 #### **Syntactic sugar** - 
 Syntax within a programming language that is designed to make things easier to read or to express.
 
@@ -258,6 +261,9 @@ Extra development work that arises when code that is easy to implement in the sh
 #### **Text editor** - 
 Somewhere that you can write code. Microsoft Word is a text editor. Notepad is a text editor. It is pretty much just somewhere that you can hit the keyboard and stuff appears... 
 _“We need to access this remotely, do you have your login details?”_ 
+
+#### **TTFB** -
+Time to first byte (TTFB) is a measurement used as an indication of the responsiveness of a web server. How fast do you see the page? It measures the duration from the user or client making an HTTP request to the first byte of the page being received by the client's browser. Google Chrome Lighthouse reports can describe TTFB.
 
 #### **UI** - 
 Stands for User Interface, this is used to describe what the website will generally look like - the buttons and the navigation  bar etc. UI is the _look_ of the site. Linked with **UX*

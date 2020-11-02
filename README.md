@@ -231,6 +231,15 @@ The practice of designing websites so that they adapt gracefully to different-si
 
 #### **Scrum/Agile** - 
 Methodical frameworks for organizing, developing, delivering and maintaining software. Scrum and Agile disciplines can be applied to a wide variety of fields but has been a popular choice in software development due to its effective approach to handling very complex tasks. 
+
+#### **Server-Side Rendering** -
+To load up a client-side or universal app to HTML on the server. Either using Rehydration or Prerendering the app as static HTML on the server. Teams often factor in the impact of SEO when choosing a strategy for the web. To use SSR or Not. SSR delivers a "complete looking" exprience for crawlers and can interpret code with ease. 
+
+#### **Service Worker** -
+A service worker is a type of [web worker](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API). It's essentially a JavaScript file that runs separately from the main browser thread, intercepting network requests, caching or retrieving resources from the cache, and delivering push messages.
+- Because workers run separately from the main thread, service workers are independent of the application they are associated with. This has several consequences:
+- Because the service worker is not blocking (it's designed to be fully asynchronous) synchronous XHR and localStorage cannot be used in a service worker.
+The service worker can receive push messages from a server when the app is not active. This lets your app show push notifications to the user, even when it is not open in the browser.
   
 #### **Source Code** - 
 Any collection of code that is displayed in a human readable format. Source code can be sent to a compiler to be translated into machine code for the CPU to utilize. 
@@ -240,9 +249,6 @@ Stands for Single Page Application. A web app that loads with a single browser l
 
 #### String - 
 A string is a data type used in programming, such as an integer and floating point unit, but is used to represent text rather than numbers. It is comprised of a set of characters that can also contain spaces and numbers. For example, the word "hamburger" and the phrase "I ate 3 hamburgers" are both strings. Even "12345" could be considered a string, if specified correctly. Typically, programmers must enclose strings in quotation marks for the data to recognized as a string and not a number or variable name.
-
-#### **Server-Side Rendering** -
-To load up a client-side or universal app to HTML on the server. Either using Rehydration or Prerendering the app as static HTML on the server. Teams often factor in the impact of SEO when choosing a strategy for the web. To use SSR or Not. SSR delivers a "complete looking" exprience for crawlers and can interpret code with ease.   
 
 #### **Syntactic sugar** - 
 Syntax within a programming language that is designed to make things easier to read or to express.

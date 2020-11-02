@@ -353,3 +353,111 @@ Software that makes it possible to use one computer operating system (like Linux
 - **511** - Network Authentication Required
 
 A detailed explanation of each status can be found [here](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes).
+
+#### Nextjs - Next.js is a React framework built by Zeit, and according to [nextjs.org](http://nextjs.org/):
+
+With Next.js, server rendering React applications has never been easier, no matter where your data is coming from.
+
+Next.js also supports static exporting, but for the purposes of this post, we are focused on that “server rendering” capability mentioned above.
+
+#### Reactjs - is an open-source, front end, JavaScript library for building user interfaces or UI components. It is maintained by Facebook and a community of individual developers and companies. React can be used as a base in the development of single-page or mobile applications.
+
+####  Namespace (in javascript) - While we are working on web applications using JavaScript functions and files, it would become difficult to challenge code. So to help us manage this code, we have a keyword ‘Namespace’ which will create mini objects of different modules or functionalities to make code readable. JavaScript does not provide Namespace by default but this functionality can be replicated. It is a container providing scope for set of identifiers, type names, functions or variables, and methods, etc. to prevent collisions among them. It can be created with ease, so with minor tweaks, a namespace can be created.
+
+Example: First, we need to initialize an empty Namespace: like so var <namespace> = { };
+
+Then to access variables in the namespace, <namespace>.<identifier>
+
+Similar to Objects in JavaScript, we initialize and access this namespace as objects.
+
+varsampleNamespace = {
+
+function_one: function()
+
+{
+
+// body of code
+
+},
+
+function_two: function()
+
+{
+
+// body of code
+
+}
+
+};
+
+...
+
+sampleNamespace. function_one ();
+
+This JavaScript Namespace functionality can be replicated by creating a global object which contains all functions and variables. In modern web applications, different libraries and components are used, so we should have namespace to avoid code ambiguity.
+
+####  Singleton Pattern - Javascript: The Singleton Pattern limits the number of instances of a particular object to just one. This single instance is called the singleton. Singletons are useful in situations where system-wide actions need to be coordinated from a single central place. An example is a database connection pool. The pool manages the creation, destruction, and lifetime of all database connections for the entire application ensuring that no connections are 'lost'.
+
+Singletons reduce the need for global variables which is particularly important in JavaScript because it limits namespace pollution and associated risk of name collisions. The Module pattern (see our [Dofactory JS](https://www.dofactory.com/products/dofactory-js) product) is JavaScript's manifestation of the Singleton pattern.
+
+Several other patterns, such as, Factory, Prototype, and Façade are frequently implemented as Singletons when only one instance is needed.
+
+Sample code:
+
+###**var Singleton = (function () {**
+ 
+###**var instance;**
+
+### **function createInstance() {**
+
+### **var object = new Object("I am the instance");**
+
+### **return object;**
+
+### **}**
+
+### **return {**
+
+### **getInstance: function () {**
+
+### **if (!instance) {**
+
+### **instance = createInstance();**
+
+### **}**
+
+### **return instance;**
+
+### **}**
+
+### **};**
+
+### **})();**
+
+### **function run() {**
+
+### **var instance1 = Singleton.getInstance();**
+
+### **var instance2 = Singleton.getInstance();**
+
+### **alert("Same instance? " + (instance1 === instance2));**
+
+**}**
+
+####  MEAN Stack - MEAN is a free and open-source JavaScript software stack for building dynamic web sites and web applications. The MEAN stack is MongoDB, Express.js, AngularJS, and Node.js.
+
+#### MERN Stack - MERN Stack is a Javascript Stack that is used for easier and faster deployment of full-stack web applications. MERN Stack comprises of 4 technologies namely: MongoDB, Express, React and Node.js.
+
+####  Electron - Electron is a framework for cross-platform desktop applications using Chromium and Node.js.
+
+It’s easy to build cross-platform apps using HTML, CSS, and JavaScript. Your app will be compatible with Mac, Windows, and Linux operating systems right out of the box. 8. Source code - Source code is the list of human-readable instructions that a programmer writes—often in a word processing program—when he is developing a program. The source code is run through a compiler to turn it into machine code, also called object code, that a computer can understand and execute. Object code consists primarily of 1s and 0s, so it isn't human-readable.
+
+#### Web-pack - web-pack is an open-source JavaScript module bundler. It is a module bundler primarily for JavaScript, but it can transform front-end assets like HTML, CSS, and images if the corresponding loaders are included. web-pack takes modules with dependencies and generates static assets representing those modules.
+
+####  Babel: a JavaScript transpiler that converts edge JavaScript into plain old ES5 JavaScript that can run in any browser (even the old ones).
+    Currently, most browsers support ES5. ES5 used to be good even though it was so painful to code in [it.Is](http://it.is/) this not reading from inside callback functions? The new version of JavaScript, ES6, also known as ES2015 makes JavaScript great again.
+
+If you want to learn about ES6. All the good features of ES6 accompany one big problem — the majority of browsers don’t fully support them. That’s when Babel comes to its work. Babel may be a JS transpiler that converts new JS code into old ones. It is a really flexible tool in terms of transpiring. One can easily add assets such as es2015, es2016, es2017, or env; so that Babel compiles them to ES5.
+
+#### SDK: SDK stands for software development kit or devkit for short. It’s a set of software tools and programs used by developers to create applications for specific platforms. SDK tools will include a range of things, including libraries, documentation, code samples, processes, and guides that developers can use and integrate into their own apps. SDKs are designed to be used for specific platforms or programming languages. Thus you would need an Android SDK toolkit to build an Android app, an iOS SDK to build an iOS app, a VMware SDK for integrating with the VMware platform, or a Nordic SDK for building Bluetooth or wireless products, and so on. [https://en.wikipedia.org/wiki/Software_development_kit](https://en.wikipedia.org/wiki/Software_development_kit)
+ 

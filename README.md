@@ -90,20 +90,29 @@ Can also stand for Common Language Infrastructure. A tool, developed by Microsof
 #### Cryptography - 
 The art of hiding secrets and researching for secure communications, to protect them from third parties.
 
+#### Destructuring - 
+This means to unpack values in a data structure such as an Object or Array.  
+
 #### Directory - 
 Another word for folder. 
 _”Navigate to the correct directory”_ = go to the right folder.  
  
-#### The DOM - 
-Stands for Document Object Model. Always in capitals like that. A place in the browser to see a page’s HTML, CSS, and JavaScript all working together like a happy little family. You can type in it and add stuff. Useful when making a website and you want something to look a particular way. 
-
+#### DOM - 
+Stands for Document Object Model. Always in capitals like that. A place in the browser to see a page’s HTML, CSS, and JavaScript all working together like a happy little family. You can type in it and add stuff. Useful when making a website and you want something to look a particular way.
 See [Manipulating the DOM](#manipulating-the-dom--)
 
-#### Destructuring - 
-This means to unpack values in a data structure such as an Object or Array.  
+#### Double - 
+A double is a double-precision, 64-bit floating-point data type. It accommodates 15 to 16 digits, with a range of approximately 5.0 × 10−345 to 1.7 × 10308.
+- Double precision value
+- Stores up to 15 significant digits
+- Double is costlier, occupies more space and is more effective when more precision is required. For example, currency conversion, financial reports and transactions, scientific calculations etc…
 
 #### Environment - 
 Where you are working within your computer. For example, if you are making a webpage, your environment would be a **text editor** or **IDE** and the browser window. 
+
+#### Float - 
+ A float is a floating-point number, which means it is a number that has a decimal place. Floats are used when more precision is needed. 
+ > float b = 0.0;
 
 #### Framework - 
 A platform for developing software applications. It has rules, instructions and some boundations which makes it different from a library. Since they are often built, tested, and optimized by several experienced software engineers and programmers, software frameworks are versatile, robust, and efficient. It is a language written to help you to write code easier. Often comes with **boilerplate** code to get you started.
@@ -148,6 +157,9 @@ HTTP or Hypertext Transfer Protocol is the set of guidelines for transferring fi
 
 #### HTTPS
 Stands for “Hypertext Transfer Protocol Secure” which means the webpage has a special layer of encryption added to hide your personal details and passwords. Hence, if you wish to secure your bank account details at an online shopping site, look for “https” in the URL.
+
+#### Integer -
+An integer (pronounced IN-tuh-jer) is basically a data type in programming language and also an integer is a whole number (not a fractional number) that can be positive, negative, or zero.
 
 #### **JSON** - 
 Stands for JavaScript Object Notation. JSON is a common data format (a way data is written), originally derived from JavaScript, many programming languages now have the ability to use JSON. JSON data types include: number, string, boolean, array, object, or null. Basic JSON might look like this:  
@@ -216,6 +228,9 @@ For the opposite of Remote, see [Local](#locallocally-)
 
 #### **Responsive Web Design** - 
 The practice of designing websites so that they adapt gracefully to different-sized devices like phones, tablets, wearable devices, etc. If you’re able to visit a website on your phone and it looks just as proportional and seamless as it does on your computer, it’s an example of responsive web design.
+
+#### **Scrum/Agile** - 
+Methodical frameworks for organizing, developing, delivering and maintaining software. Scrum and Agile disciplines can be applied to a wide variety of fields but has been a popular choice in software development due to its effective approach to handling very complex tasks. 
   
 #### **Source Code** - 
 Any collection of code that is displayed in a human readable format. Source code can be sent to a compiler to be translated into machine code for the CPU to utilize. 
@@ -223,8 +238,8 @@ Any collection of code that is displayed in a human readable format. Source code
 #### **SPA** - 
 Stands for Single Page Application. A web app that loads with a single browser load. While the app can contain multiple "pages", these are either already pre-loaded, and displayed using Javascript; or content is fetched dynamically using an API without loading a new page (a loading icon may be displayed, or the content fetched in the background while the user scrolls)
 
-#### **Scrum/Agile** - 
-Methodical frameworks for organizing, developing, delivering and maintaining software. Scrum and Agile disciplines can be applied to a wide variety of fields but has been a popular choice in software development due to its effective approach to handling very complex tasks. 
+#### String - 
+A string is a data type used in programming, such as an integer and floating point unit, but is used to represent text rather than numbers. It is comprised of a set of characters that can also contain spaces and numbers. For example, the word "hamburger" and the phrase "I ate 3 hamburgers" are both strings. Even "12345" could be considered a string, if specified correctly. Typically, programmers must enclose strings in quotation marks for the data to recognized as a string and not a number or variable name.
 
 #### **Syntactic sugar** - 
 Syntax within a programming language that is designed to make things easier to read or to express.

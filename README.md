@@ -370,7 +370,7 @@ Next.js also supports static exporting, but for the purposes of this post, we ar
 
 ####  Namespace (in javascript) - While we are working on web applications using JavaScript functions and files, it would become difficult to challenge code. So to help us manage this code, we have a keyword ‘Namespace’ which will create mini objects of different modules or functionalities to make code readable. JavaScript does not provide Namespace by default but this functionality can be replicated. It is a container providing scope for set of identifiers, type names, functions or variables, and methods, etc. to prevent collisions among them. It can be created with ease, so with minor tweaks, a namespace can be created.
 
-Example: First, we need to initialize an empty Namespace: like so var <namespace> = { };
+Example: First, we need to initialize an empty Namespace: like var <namespace> = { };
 
 Then to access variables in the namespace, <namespace>.<identifier>
 

@@ -37,6 +37,9 @@ AJAX just uses a combination of:
 #### API - 
 Stands for Application Programming Interface, which provides a comprehensive layer of communication and callbacks to the original software layer, so that it becomes easier to integrate. Example- The google maps API allows you to integrate their maps to your apps through their API.
 
+#### Arrays -
+Arrays are containers that hold variables, they're used to group together similar variables. You can think of arrays like a book shelf where books are kept next to each other in a row. Similarly arrays are stored in memory as a continuous block. 
+
 #### ASCII - 
 Stands for 'American Standard Code for Information Interchange'. It is the set of common characters use in electronic communication, based in English alphabet, numbers, punctuation symbols and non-printing control characters (like Escape, Tabulation, Backspace, End of Line, etc). This standard is the base line to newer sets of characters like UTF-8 standard, that extends ASCII including new characters like Latin or German characters by example.
                                                            
@@ -86,6 +89,9 @@ greetings('Test #3', notifyBySweetAlert) // this one require sweet alert 2 lib
 See [Terminal or Cli](#terminal-or-cli--)
 
 Can also stand for Common Language Infrastructure. A tool, developed by Microsoft, to allow different languages to be understood and interpreted by different computer programs, rather than having to restructure the architecture and build behind it. 
+
+#### Compiler - 
+A compiler is a program that translates computer programs written using letters, numbers, and characters into a machine language program that can be read and executed by a computer. For example gcc. 
 
 #### Cryptography - 
 The art of hiding secrets and researching for secure communications, to protect them from third parties.
@@ -228,6 +234,9 @@ For the opposite of Remote, see [Local](#locallocally-)
 
 #### **Responsive Web Design** - 
 The practice of designing websites so that they adapt gracefully to different-sized devices like phones, tablets, wearable devices, etc. If you’re able to visit a website on your phone and it looks just as proportional and seamless as it does on your computer, it’s an example of responsive web design.
+
+#### **Runtime** - 
+Runtime is the time period during which a program is running on a computer. If an operation occurs at ‘runtime’, it occurred when a program is running or the moment at which the program begins to run. Also known as execution time. 
 
 #### **Scrum/Agile** - 
 Methodical frameworks for organizing, developing, delivering and maintaining software. Scrum and Agile disciplines can be applied to a wide variety of fields but has been a popular choice in software development due to its effective approach to handling very complex tasks. 

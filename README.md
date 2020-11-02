@@ -38,7 +38,7 @@ AJAX just uses a combination of:
 Stands for Application Programming Interface, which provides a comprehensive layer of communication and callbacks to the original software layer, so that it becomes easier to integrate. Example- The google maps API allows you to integrate their maps to your apps through their API.
 
 #### Arrays -
-Arrays are containers that hold variables, they're used to group together similar variables. You can think of arrays like a book shelf where books are kept next to each other in a row. Similarly arrays are stored in memory as a continuous block. 
+Arrays are containers that hold variables, they're used to group together similar variables. You can think of an array like a book shelf where books are kept next to each other in a row. Similarly arrays are stored in memory as a continuous block. 
 
 #### ASCII - 
 Stands for 'American Standard Code for Information Interchange'. It is the set of common characters use in electronic communication, based in English alphabet, numbers, punctuation symbols and non-printing control characters (like Escape, Tabulation, Backspace, End of Line, etc). This standard is the base line to newer sets of characters like UTF-8 standard, that extends ASCII including new characters like Latin or German characters by example.
@@ -47,7 +47,7 @@ Stands for 'American Standard Code for Information Interchange'. It is the set o
 The standard code you need to put into your code in order for it to run. An example is frameworks. Let’s take Bootstrap as an example. To use it, you need to copy and paste in a bunch of code that you get from the official website in order for you to be able to use it. Like a template.
 
 #### Bug - 
-A bug is a general term used to describe any unexpected problem with hardware or software. Its different from an error. Error is a message shown to let them know that something went wrong while bug is a problem in the code that caused the error.
+A bug is a general term used to describe any unexpected problem with hardware or software. Its different from an error. Error is a message shown to let user know that something went wrong while bug is a problem in the code that caused the error.
 
 #### Callback function - 
 
@@ -94,7 +94,7 @@ See [Terminal or Cli](#terminal-or-cli--)
 Can also stand for Common Language Infrastructure. A tool, developed by Microsoft, to allow different languages to be understood and interpreted by different computer programs, rather than having to restructure the architecture and build behind it. 
 
 #### Compiler - 
-A compiler is a program that translates computer programs written using letters, numbers, and characters into a machine language program that can be read and executed by a computer. For example gcc compiler. 
+A compiler is a program that translates computer programs written using letters, numbers, and characters into a machine language program that can be read and executed by a computer. For example gcc compiler is used to compile a C program. 
 
 #### Cryptography - 
 The art of hiding secrets and researching for secure communications, to protect them from third parties.

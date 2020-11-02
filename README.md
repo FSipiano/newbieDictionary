@@ -46,6 +46,9 @@ Stands for 'American Standard Code for Information Interchange'. It is the set o
 #### Boilerplate (code) - 
 The standard code you need to put into your code in order for it to run. An example is frameworks. Let’s take Bootstrap as an example. To use it, you need to copy and paste in a bunch of code that you get from the official website in order for you to be able to use it. Like a template.
 
+#### Bug - 
+A bug is a general term used to describe any unexpected problem with hardware or software. Its different from an error. Error is a message shown to let them know that something went wrong while bug is a problem in the code that caused the error.
+
 #### Callback function - 
 
 A function (Plug-in) passed as an argument to another function or method (Worker). The function Worker call the function Plug-in within its context with the corresponding data, e.i.:
@@ -91,7 +94,7 @@ See [Terminal or Cli](#terminal-or-cli--)
 Can also stand for Common Language Infrastructure. A tool, developed by Microsoft, to allow different languages to be understood and interpreted by different computer programs, rather than having to restructure the architecture and build behind it. 
 
 #### Compiler - 
-A compiler is a program that translates computer programs written using letters, numbers, and characters into a machine language program that can be read and executed by a computer. For example gcc. 
+A compiler is a program that translates computer programs written using letters, numbers, and characters into a machine language program that can be read and executed by a computer. For example gcc compiler. 
 
 #### Cryptography - 
 The art of hiding secrets and researching for secure communications, to protect them from third parties.
@@ -226,6 +229,9 @@ A house for your code, stored online. Repositories are collections of source cod
 #### **Refactor** - 
 Means to look over and rewrite your code in a different way. Maybe you learned a better way to do it, so you rewrite it. 
 _”I’m going to spend today refactoring old code because I learned so much since I first wrote it!”_ 
+
+#### **Regex** - 
+Short for regular expression, a regex is a string of text that allows you to create patterns that help match, locate, and manage text. Its a sequence of characters that define a search pattern which come very handy in many cases like form validation, searching stuff, etc
 
 #### **Remote** - 
 Not on your computer – stored on someone else's machine/server. Usually means you need to log in, through a portal or …... to be able to access it. 

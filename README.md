@@ -241,6 +241,9 @@ For the opposite of Remote, see [Local](#locallocally-)
 #### **Responsive Web Design** - 
 The practice of designing websites so that they adapt gracefully to different-sized devices like phones, tablets, wearable devices, etc. If you’re able to visit a website on your phone and it looks just as proportional and seamless as it does on your computer, it’s an example of responsive web design.
 
+#### **ReST (Representational State Transfer)** - 
+A uniform interface which allows for a standard way to transfer and manipulate resources. Communication occurs through methods, like GET a resource, POST a new one, or DELETE a resource. This allows for software to share and manipulate data over a network connection through a standard interface. Browsers generally use the GET and POST methods to serve websites, but many others exist for different use cases. 
+
 #### **Runtime** - 
 Runtime is the time period during which a program is running on a computer. If an operation occurs at ‘runtime’, it occurred when a program is running or the moment at which the program begins to run. Also known as execution time. 
 

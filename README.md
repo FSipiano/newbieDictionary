@@ -131,8 +131,7 @@ It’s easy to build cross-platform apps using HTML, CSS, and JavaScript. Your a
 Where you are working within your computer. For example, if you are making a webpage, your environment would be a **text editor** or **IDE** and the browser window. 
 
 #### Float - 
- A float is a floating-point number, which means it is a number that has a decimal place. Floats are used when more precision is needed. 
-
+ A float is short for floating-point number. It's a common way for computers to store decimal numbers or fractions 
  ```c
  float b = 0.0;
  ```
@@ -263,7 +262,7 @@ sampleNamespace.function_one ();
 This JavaScript Namespace functionality can be replicated by creating a global object which contains all functions and variables. In modern web applications, different libraries and components are used, so we should have namespace to avoid code ambiguity.
 
 #### NaN - 
-Stands for 'Not a Number'. Is a number.
+Stands for 'Not a Number'. In JavaScript `typeof NaN` is `Number`.
 
 #### Nextjs - 
 Next.js is a React framework built by Zeit, and according to [nextjs.org](http://nextjs.org/):
@@ -286,7 +285,8 @@ A project or repository that anyone can request to make changes or updates to. T
 A human-readable explanation of how something should work – the way and order that it runs in. Pseudocode does not have to follow the rules of any programming language. It is a description of what the code in a program is doing so that even non-technical individuals can understand its logic. 
 
 #### PR - 
-Stands for 'pull request'. Means that you are requesting that the changes or edits you have made be reviewed and eventually merged (in **git*)
+Stands for 'pull request'. Means that you are requesting that the changes or edits you have made be reviewed and eventually merged (in **git**)  
+Also known as MR for 'merge request'
 
 #### PR - 
 Also a marketing term meaning 'Press release'. Means anything going out to be published into the wide world for others to see. You could create a PR for a PR I suppose...

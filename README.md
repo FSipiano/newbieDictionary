@@ -132,7 +132,10 @@ Where you are working within your computer. For example, if you are making a web
 
 #### Float - 
  A float is a floating-point number, which means it is a number that has a decimal place. Floats are used when more precision is needed. 
- > float b = 0.0;
+
+ ```c
+ float b = 0.0;
+ ```
 
 #### Framework - 
 A platform for developing software applications. It has rules, instructions and some boundations which makes it different from a library. Since they are often built, tested, and optimized by several experienced software engineers and programmers, software frameworks are versatile, robust, and efficient. It is a language written to help you to write code easier. Often comes with **boilerplate** code to get you started.

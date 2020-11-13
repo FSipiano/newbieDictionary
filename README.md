@@ -42,6 +42,9 @@ Arrays are containers that hold variables, they're used to group together simila
 
 #### ASCII - 
 Stands for 'American Standard Code for Information Interchange'. It is the set of common characters use in electronic communication, based in English alphabet, numbers, punctuation symbols and non-printing control characters (like Escape, Tabulation, Backspace, End of Line, etc). This standard is the base line to newer sets of characters like UTF-8 standard, that extends ASCII including new characters like Latin or German characters by example.
+
+#### Artificial intelligence
+An umbrella term that covers a large number of techniques (see machine learning) that allow intelligent behavior of machines.
                                                            
 #### Boilerplate (code) - 
 The standard code you need to put into your code in order for it to run. An example is frameworks. Let’s take Bootstrap as an example. To use it, you need to copy and paste in a bunch of code that you get from the official website in order for you to be able to use it. Like a template.
@@ -201,7 +204,7 @@ The block of code that you can call by name that is associated with an object (i
 Just means changing something (usually JavaScript) in the DOM.
 
 #### **Machine Learning** - 
-A realm of study within the domain of artificial intelligence that aims to develop techniques in software which allow machines to learn through experience. 
+A realm of study within the domain of artificial intelligence that aims to use statistical techniques in software which allow machines to learn from data. 
 
 #### **NaN** - 
 Stands for 'Not a Number'. Is a number.

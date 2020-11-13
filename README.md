@@ -179,81 +179,15 @@ Stands for ‘Integrated Development Environment’. It is somewhere that you wr
 HTTP or Hypertext Transfer Protocol is the set of guidelines for transferring files such as texts, videos, sounds, images, and other multimedia files through the World Wide Web. The moment a Web user opens the browser, the user is indirectly making use of HTTP. 
 
 #### HTTP Status Codes
+HTTP Status codes are part of the response data returned by an HTTP request, which signals to the client about the result in a way that is easy for code to understand. Common status codes include:
 
-**1xx** - Informational
-- **100** - Continue
-- **101** - Switching Protocols
-- **102** - Processing
-- **103** - Early Hints
+- **200** - OK. This is the status response for a successful request. When you visit a webpage, and the webpage loads fine, this is the response.
+- **400** - Bad Request. Often returned when the request's data is bad and cannot be handled by the server.
+- **403** - Forbidden. Usually returned if the request does not have authorization to access the resource (missing login details for example)
+- **404** - Not Found. Returned when a requested resource does not exist
+- **500** - Internal Server Error. Used when there is an server internal error (i.e. a bug)
 
-**2xx** - Success
-- **200** - OK
-- **201** - Created
-- **202** - Accepted
-- **203** - Non-Authoritative Information
-- **204** - No Content
-- **205** - Reset Content
-- **206** - Partial Content
-- **207** - Multi-Status
-- **208** - Already Reported
-- **226** - IM Used
-
-**3xx** - Redirection
-- **300** - Multiple Choices
-- **301** - Moved Permanently
-- **302** - Found
-- **303** - See Other
-- **304** - Not Modified
-- **305** - Use Proxy
-- **306** - Switch Proxy
-- **307** - Temporary Redirect
-- **308** - Permanent Redirect
-
-**4xx** - Client Error
-- **400** - Bad Request
-- **401** - Unauthorized
-- **402** - Payment Required
-- **403** - Forbidden
-- **404** - Not Found
-- **405** - Method Not Allowed
-- **406** - Not Acceptable
-- **407** - Proxy Authentication Required
-- **408** - Request Timeout
-- **409** - Conflict
-- **410** - Gone
-- **411** - Length Required
-- **412** - Precondition Failed
-- **413** - Payload Too Large
-- **414** - URI Too Long
-- **415** - Unsupported Media Type
-- **416** - Range Not Satisfiable
-- **417** - Expectation Failed
-- **418** - I'm a teapot
-- **421** - Misdirected Request
-- **422** - Unprocessable Entity
-- **423** - Locked
-- **424** - Failed Dependency
-- **425** - Too Early
-- **426** - Upgrade Required
-- **428** - Precondition Required
-- **429** - Too Many Requests
-- **431** - Request Header Fields Too Large
-- **451** - Unavailable For Legal Reasons
-
-**5xx** - Server Error (Whoops, backend dev broke something!)
-- **500** - Internal Server Error
-- **501** - Not Implemented
-- **502** - Bad Gateway
-- **503** - Service Unavailable
-- **504** - Gateway Timeout
-- **505** - HTTP Version Not Supported
-- **506** - Variant Also Negotiates
-- **507** - Insufficient Storage
-- **508** - Loop Detected
-- **510** - Not Extended
-- **511** - Network Authentication Required
-
-A detailed explanation of each status can be found [here](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes).
+A full list and detailed explanation of each status can be found [here](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes).
 
 #### HTTPS
 Stands for “Hypertext Transfer Protocol Secure” which means the webpage has a special layer of encryption added to hide your personal details and passwords. Hence, if you wish to secure your bank account details at an online shopping site, look for “https” in the URL.

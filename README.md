@@ -291,6 +291,13 @@ Stands for 'pull request'. Means that you are requesting that the changes or edi
 #### PR - 
 Also a marketing term meaning 'Press release'. Means anything going out to be published into the wide world for others to see. You could create a PR for a PR I suppose...
 
+### Recursion -
+Some algorithms can be reduced to a simple function that acts on the value returned by another run of itself, when a function calls itself as part of such an algorithm, this is known as recursion. Common recursive algorithms include list traversal, or tree searches, or mathematical sequence generation.
+
+Recursive algorithms must have an end condition so that it doesn't recurse infinitely. However, care must be taken when using recursion, as a practical limitation of recursion is high **stack memory** usage, which can lead to a problem known as **stack overflow** (which the popular programming question & answer website is named after)
+
+Alse see [Recursion](#recursion-)
+
 #### Reactjs -
 An open-source, front end, JavaScript library for building user interfaces or UI components. It is maintained by Facebook and a community of individual developers and companies. React can be used as a base in the development of single-page or mobile applications.
 

@@ -120,7 +120,7 @@ A double is a double-precision, 64-bit floating-point data type. It accommodates
 Where you are working within your computer. For example, if you are making a webpage, your environment would be a **text editor** or **IDE** and the browser window. 
 
 #### Float - 
- A float is a floating-point number, which means it is a number that has a decimal place. Floats are used when more precision is needed. 
+ A float is short for floating-point number. It's a common way for computers to store decimal numbers or fractions 
  > float b = 0.0;
 
 #### Framework - 
@@ -204,7 +204,7 @@ Just means changing something (usually JavaScript) in the DOM.
 A realm of study within the domain of artificial intelligence that aims to develop techniques in software which allow machines to learn through experience. 
 
 #### **NaN** - 
-Stands for 'Not a Number'. Is a number.
+Stands for 'Not a Number'. In JavaScript `typeof NaN` is `Number`.
 
 #### **Objects** - 
 In code, you can create an ‘object’ that you can refer to later, for example you can create a ‘person’ with a first name and last name, an age, and an eye colour. This can then be used again if you wanted to create another ‘person’ 
@@ -218,7 +218,8 @@ A project or repository that anyone can request to make changes or updates to. T
 A human-readable explanation of how something should work – the way and order that it runs in. Pseudocode does not have to follow the rules of any programming language. It is a description of what the code in a program is doing so that even non-technical individuals can understand its logic. 
 
 #### **PR** - 
-Stands for 'pull request'. Means that you are requesting that the changes or edits you have made be reviewed and eventually merged (in **git**)
+Stands for 'pull request'. Means that you are requesting that the changes or edits you have made be reviewed and eventually merged (in **git**)  
+Also known as MR for 'merge request'
 
 #### **PR** - 
 Also a marketing term meaning 'Press release'. Means anything going out to be published into the wide world for others to see. You could create a PR for a PR I suppose...

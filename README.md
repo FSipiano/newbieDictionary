@@ -48,6 +48,10 @@ A JavaScript transpiler that converts edge JavaScript into plain old ES5 JavaScr
     Currently, most browsers support ES5. ES5 used to be good even though it was so painful to code in [it.Is](http://it.is/) this not reading from inside callback functions? The new version of JavaScript, ES6, also known as ES2015 makes JavaScript great again.
 
 If you want to learn about ES6. All the good features of ES6 accompany one big problem — the majority of browsers don’t fully support them. That’s when Babel comes to its work. Babel may be a JS transpiler that converts new JS code into old ones. It is a really flexible tool in terms of transpiring. One can easily add assets such as es2015, es2016, es2017, or env; so that Babel compiles them to ES5.
+
+#### Bcrypt
+The bcrypt hashing function allows us to build a password security platform that scales with computation power and always hashes every password with a salt. The process of generating salt is done using genSalt() and then the passwords that need to be hashed are hashed with this salt and bcrypt-ed password is ready.
+This works on the bluefish encryption algorithm.
                                          
 #### Boilerplate (code) - 
 The standard code you need to put into your code in order for it to run. An example is frameworks. Let’s take Bootstrap as an example. To use it, you need to copy and paste in a bunch of code that you get from the official website in order for you to be able to use it. Like a template.

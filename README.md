@@ -329,6 +329,9 @@ A uniform interface which allows for a standard way to transfer and manipulate r
 #### Runtime - 
 Runtime is the time period during which a program is running on a computer. If an operation occurs at ‘runtime’, it occurred when a program is running or the moment at which the program begins to run. Also known as execution time. 
 
+#### Salt - 
+A [salt](https://heynode.com/blog/2020-04/salt-and-hash-passwords-bcrypt) is a random string. By hashing a plain text password plus a salt, the hash algorithm’s output is no longer predictable. The same password will no longer yield the same hash. The salt gets automatically included with the hash, so you do not need to store it in a database.
+
 #### Scrum/Agile - 
 Methodical frameworks for organizing, developing, delivering and maintaining software. Scrum and Agile disciplines can be applied to a wide variety of fields but has been a popular choice in software development due to its effective approach to handling very complex tasks.
 

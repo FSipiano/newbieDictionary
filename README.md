@@ -5,6 +5,11 @@ I want YOU to contribute. Click 'fork repository' (button in the top right), mak
 **If you'd like a word defined, just write it in the alphabetical place and write it like this:**
 #### Example -
 
+**You can then come back later and see if anyone has defined it!! I'll check often for these and promote them on Twitter so we can get great answers!!**
+
+
+
+
 I have been thinking about making this for some time, but I wanted to make sure that I had enough knowledge about random tech words before I started... 
 
  

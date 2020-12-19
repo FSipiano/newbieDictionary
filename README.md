@@ -227,7 +227,7 @@ A collection of functions which can be added to your application and the functio
 On your computer 
 _“You can access it locally”_ 
 
-For the opposite of Local, see [Remote](#remote-)
+For the opposite of Local, see [Remote](#remote--)
 
 #### Manipulating the DOM - 
 Just means changing something (usually JavaScript) in the DOM.
@@ -282,7 +282,7 @@ With Next.js, server rendering React applications has never been easier, no matt
 
 Next.js also supports static exporting, but for the purposes of this post, we are focused on that “server rendering” capability mentioned above.
 
-Also see [React](#reactjs-)
+Also see [React](#reactjs--)
 
 #### Objects - 
 In code, you can create an ‘object’ that you can refer to later, for example you can create a ‘person’ with a first name and last name, an age, and an eye colour. This can then be used again if you wanted to create another ‘person’ 
@@ -307,7 +307,7 @@ Some algorithms can be reduced to a simple function that acts on the value retur
 
 Recursive algorithms must have an end condition so that it doesn't recurse infinitely. However, care must be taken when using recursion, as a practical limitation of recursion is high **stack memory** usage, which can lead to a problem known as **stack overflow** (which the popular programming question & answer website is named after)
 
-Alse see [Recursion](#recursion-)
+Alse see [Recursion](#recursion--)
 
 #### Reactjs -
 An open-source, front end, JavaScript library for building user interfaces or UI components. It is maintained by Facebook and a community of individual developers and companies. React can be used as a base in the development of single-page or mobile applications.
@@ -322,7 +322,7 @@ Short for regular expression, a regex is a string of text that allows you to cre
 #### Remote - 
 Not on your computer – stored on someone else's machine/server. Usually means you need to log in, through a portal or …... to be able to access it. 
 
-For the opposite of Remote, see [Local](#locallocally-)
+For the opposite of Remote, see [Local](#locallocally--)
 
 #### Repository - 
 A house for your code, stored online. Repositories are collections of source code 
@@ -406,7 +406,7 @@ Extra development work that arises when code that is easy to implement in the sh
 #### **Terminal** or **CLI** - 
 The place where you type commands directly to the computer. You don’t need this at the beginning, but at least you know what it is.... It looks like a small word document but is black and makes you feel like a hacker. Some people get really excited about it. CLI stands for ‘Command Line Interface’. 
 
-For another definition of CLI, see [CLI](#cli-)
+For another definition of CLI, see [CLI](#cli--)
 #### Text editor - 
 Somewhere that you can write code. Microsoft Word is a text editor. Notepad is a text editor. It is pretty much just somewhere that you can hit the keyboard and stuff appears... 
 _“We need to access this remotely, do you have your login details?”_ 

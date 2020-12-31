@@ -302,6 +302,12 @@ Also known as MR for 'merge request'
 #### PR - 
 Also a marketing term meaning 'Press release'. Means anything going out to be published into the wide world for others to see. You could create a PR for a PR I suppose...
 
+#### PWA -
+PWA stands for Progressive Web App. It is basically a website that gives the look and feel of a native app.That means it is an incredible mix of the best of both, the web and native applications.
+
+Features- 1) No need to download and install. 2) One canadd it to home screen. 3) Offlice functionality using service worker's. 4)Quick loading.
+Drawbacks- 1) No indoor geolocation -it cannot access Bluetooth. 2) No consumer data access like contact and socil profiles. 3)High battery usage. 
+
 ### Recursion -
 Some algorithms can be reduced to a simple function that acts on the value returned by another run of itself, when a function calls itself as part of such an algorithm, this is known as recursion. Common recursive algorithms include list traversal, or tree searches, or mathematical sequence generation.
 

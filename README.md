@@ -141,6 +141,11 @@ It’s easy to build cross-platform apps using HTML, CSS, and JavaScript. Your a
 #### Environment - 
 Where you are working within your computer. For example, if you are making a webpage, your environment would be a **text editor** or **IDE** and the browser window. 
 
+#### Firebase -
+A platform developed by Google to build mobile and web applications. It provides services like Authentication, Realtime Database, Cloud Firestore , Cloud Storage, Cloud Functions,web  hosting, ML Kit etc.
+
+-You’re gonna save a ton of time and money using Firebase products rather than trying to build them yourself.
+
 #### Float - 
  A float is short for floating-point number. It's a common way for computers to store decimal numbers or fractions 
  ```c

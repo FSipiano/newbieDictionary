@@ -49,6 +49,9 @@ Arrays are containers that hold variables, they're used to group together simila
 
 #### ASCII - 
 Stands for 'American Standard Code for Information Interchange'. It is the set of common characters use in electronic communication, based in English alphabet, numbers, punctuation symbols and non-printing control characters (like Escape, Tabulation, Backspace, End of Line, etc). This standard is the base line to newer sets of characters like UTF-8 standard, that extends ASCII including new characters like Latin or German characters by example.
+
+#### Authentication -
+Authentication is the process of recognizing a user's identity.In authentication, the user or computer has to prove its identity to the server or client.Authentication by a server entails the use of a username and password.It is the process of validating the identity of a registered user before allowing access to the protected resource.
                   
 #### Babel -
 A JavaScript transpiler that converts edge JavaScript into plain old ES5 JavaScript that can run in any browser (even the old ones).
@@ -140,6 +143,11 @@ It’s easy to build cross-platform apps using HTML, CSS, and JavaScript. Your a
 
 #### Environment - 
 Where you are working within your computer. For example, if you are making a webpage, your environment would be a **text editor** or **IDE** and the browser window. 
+
+#### Firebase -
+A platform developed by Google to build mobile and web applications. It provides services like Authentication, Realtime Database, Cloud Firestore , Cloud Storage, Cloud Functions,web  hosting, ML Kit etc.
+
+-You’re gonna save a ton of time and money using Firebase products rather than trying to build them yourself.
 
 #### Float - 
  A float is short for floating-point number. It's a common way for computers to store decimal numbers or fractions 

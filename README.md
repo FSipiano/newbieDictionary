@@ -166,7 +166,7 @@ The block of code that you can call by name, a function is independent of an obj
 
 #### Function & variable naming conventions - 
 A naming convention is a set of rules for choosing the character sequence to be used for identifiers which denote variables, types, functions, and other entities in source code and documentation.
- - Camel Case: Writing names without spaces or punctuation, indicating the separation of words with a single capitalized letter.
+ - camelCase: Writing names without spaces or punctuation, indicating the separation of words with a single capitalized letter.
     Example:
      - helloWorld
      - newbieDictionary
@@ -193,7 +193,7 @@ The name of a version control system. Involves branches and trees, pushing and p
 #### GitHub - 
 The name of a hosting service for storing and interacting with git repositories. GitHub provides additional collaboration tools on top of git, such as Pull Requests, Issues/bug reports, wiki, and other features. Other popular git hosting services include BitBucket and GitLab.
 
-#### An **IDE** - 
+#### IDE - 
 Stands for ‘Integrated Development Environment’. It is somewhere that you write code, and has tools to help you write, structure and test it. Build, test, connect to databases, the works! 
 
 #### HTTP - 

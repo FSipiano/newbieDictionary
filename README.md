@@ -4,9 +4,10 @@ I want YOU to contribute. Click 'fork repository' (button in the top right), mak
 
 **If you'd like a word defined, just write it in the alphabetical place and write it like this:**
 
-
-#### Word - Definition
-
+************
+#### Word - 
+Definition
+************
 **You can then come back later and see if anyone has defined it!! I'll check often for these and promote them on Twitter so we can get great answers!!**
 
 

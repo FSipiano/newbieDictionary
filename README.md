@@ -32,7 +32,13 @@ Absolutely not
 I have tried to gather a few words/phrases and definitions together here to help you out, and we can add to it as we go along!! 
 
 There are sometimes multiple words for the same thing, again - just to be confusing. I’ve tried to include all definitions that I’ve heard, but please let me know if I’ve missed any!
-                                                                             📖
+                                                      
+                                                      
+                                                      
+                                                      
+                                                      
+                                                      📖
+
 
 
 #### A11y - 

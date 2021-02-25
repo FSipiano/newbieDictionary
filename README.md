@@ -27,7 +27,7 @@ You may be learning from someone who has been in the industry for a while, and f
 
 But do they make sense to you, as a newbie? 
 
-Absolutely not 
+####Absolutely not 
 
 I have tried to gather a few words/phrases and definitions together here to help you out, and we can add to it as we go along!! 
 

@@ -240,6 +240,10 @@ Stands for JavaScript Object Notation. JSON is a common data format (a way data 
 #### Kernel - 
 A piece of software running as a communicator between regular software and hardware, containing all the lower-level functions to talk to the hardware and providing an API for the software to modify the state of hardware interfaces securely. Example - The Linux Kernel
 
+#### Key-Value Pairs
+
+Key-value pairs let us give labels (or keys) to pieces of information (or values). We can use the labels to retrieve that information later on. They are also called attribute-value pairs. The key is like an index, but can be a more sensible way to name a piece of information than by its position. We can add key-value pairs to data structures like objects (e.g. in JavaScript), or dictionaries (in Python). Pair a key with its value by using a colon between them. Separate each complete pair with a comma when entering them. E.g. `{keyA: valueA, keyB: valueB, keyC: valueC}` contains three key-value pairs.
+
 #### Library - 
 A collection of functions which can be added to your application and the functions called as necessary, just like any other functions in the application. More precisely any object, not only functions can be stored in a library, but the vast majority of libraries only contain functions.
 

@@ -60,8 +60,11 @@ Arrays are containers that hold variables, they're used to group together simila
 Stands for 'American Standard Code for Information Interchange'. It is the set of common characters use in electronic communication, based in English alphabet, numbers, punctuation symbols and non-printing control characters (like Escape, Tabulation, Backspace, End of Line, etc). This standard is the base line to newer sets of characters like UTF-8 standard, that extends ASCII including new characters like Latin or German characters by example.
 
 #### Authentication -
-Authentication is the process of recognizing a user's identity.In authentication, the user or computer has to prove its identity to the server or client.Authentication by a server entails the use of a username and password.It is the process of validating the identity of a registered user before allowing access to the protected resource.
-                  
+Authentication is the process of recognizing a user's identity. In authentication, the user or computer has to prove its identity to the server or client. Authentication by a server entails the use of a username and password. It is the process of validating the identity of a registered user before allowing access to the protected resource.
+
+#### Authorization -
+Authorization is the process of determining a user's access levels, or permissions, to various systems or features once **authenticated**. For example, a user may be authorized for read-only access or administrator access.
+
 #### Babel -
 A JavaScript transpiler that converts edge JavaScript into plain old ES5 JavaScript that can run in any browser (even the old ones).
     Currently, most browsers support ES5. ES5 used to be good even though it was so painful to code in [it.Is](http://it.is/) this not reading from inside callback functions? The new version of JavaScript, ES6, also known as ES2015 makes JavaScript great again.

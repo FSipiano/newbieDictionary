@@ -2,7 +2,7 @@
 **I have made this Open Source (definition in the dictionary!) to enable us all to add and learn from each other!
 I want YOU to contribute. Click 'fork repository' (button in the top right), make your additions in your 'own version', and then create a pull request (definition below) to put it back into this main version! I'll review it and then add it in.** 😄
 
-**If you'd like a word defined, just write it in the alphabetical place and write it like this:**
+**If you'd like a word to be defined, just write it in the alphabetical place and write it like this:**
 
 ************
 #### Word - 
@@ -27,7 +27,7 @@ You may be learning from someone who has been in the industry for a while, and f
 
 But do they make sense to you, as a newbie? 
 
-#### Absolutely not 
+### Absolutely not 
 
 I have tried to gather a few words/phrases and definitions together here to help you out, and we can add to it as we go along!! 
 

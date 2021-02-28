@@ -5,7 +5,7 @@ I want YOU to contribute. Click 'fork repository' (button in the top right), mak
 **If you'd like a word to be defined, just write it in the alphabetical place and write it like this:**
 
 ************
-#### Word - 
+### Word - 
 Definition
 ************
 **You can then come back later and see if anyone has defined it!! I'll check often for these and promote them on Twitter so we can get great answers!!**
@@ -41,47 +41,47 @@ There are sometimes multiple words for the same thing, again - just to be confus
 
 
 
-#### A11y - 
+### A11y - 
 A numeronym for accessibility, where the number 11 refers to the number of letters omitted. A11y refers to the accessibility of a computer system to all people, regardless of disability type or severity of impairment.
 
-#### AJAX - 
+### AJAX - 
 AJAX is not a programming language.
 AJAX just uses a combination of:
  - A browser built-in XMLHttpRequest object (to request data from a web server)
  - JavaScript and HTML DOM (to display or use the data)
 
-#### API - 
+### API - 
 Stands for Application Programming Interface, which provides a comprehensive layer of communication and callbacks to the original software layer, so that it becomes easier to integrate. Example- The google maps API allows you to integrate their maps to your apps through their API.
 
-#### Arrays -
+### Arrays -
 Arrays are containers that hold variables, they're used to group together similar variables. You can think of an array like a book shelf where books are kept next to each other in a row. Similarly arrays are stored in memory as a continuous block. 
 
-#### ASCII - 
+### ASCII - 
 Stands for 'American Standard Code for Information Interchange'. It is the set of common characters use in electronic communication, based in English alphabet, numbers, punctuation symbols and non-printing control characters (like Escape, Tabulation, Backspace, End of Line, etc). This standard is the base line to newer sets of characters like UTF-8 standard, that extends ASCII including new characters like Latin or German characters by example.
 
-#### Authentication -
+### Authentication -
 Authentication is the process of recognizing a user's identity. In authentication, the user or computer has to prove its identity to the server or client. Authentication by a server entails the use of a username and password. It is the process of validating the identity of a registered user before allowing access to the protected resource.
 
-#### Authorization -
+### Authorization -
 Authorization is the process of determining a user's access levels, or permissions, to various systems or features once **authenticated**. For example, a user may be authorized for read-only access or administrator access.
 
-#### Babel -
+### Babel -
 A JavaScript transpiler that converts edge JavaScript into plain old ES5 JavaScript that can run in any browser (even the old ones).
     Currently, most browsers support ES5. ES5 used to be good even though it was so painful to code in [it.Is](http://it.is/) this not reading from inside callback functions? The new version of JavaScript, ES6, also known as ES2015 makes JavaScript great again.
 
 If you want to learn about ES6. All the good features of ES6 accompany one big problem — the majority of browsers don’t fully support them. That’s when Babel comes to its work. Babel may be a JS transpiler that converts new JS code into old ones. It is a really flexible tool in terms of transpiring. One can easily add assets such as es2015, es2016, es2017, or env; so that Babel compiles them to ES5.
 
-#### Bcrypt
+### Bcrypt
 The bcrypt hashing function allows us to build a password security platform that scales with computation power and always hashes every password with a salt. The process of generating salt is done using genSalt() and then the passwords that need to be hashed are hashed with this salt and bcrypt-ed password is ready.
 This works on the bluefish encryption algorithm.
                                          
-#### Boilerplate (code) - 
+### Boilerplate (code) - 
 The standard code you need to put into your code in order for it to run. An example is frameworks. Let’s take Bootstrap as an example. To use it, you need to copy and paste in a bunch of code that you get from the official website in order for you to be able to use it. Like a template.
 
-#### Bug - 
+### Bug - 
 A bug is a general term used to describe any unexpected problem with hardware or software. Its different from an error. Error is a message shown to let user know that something went wrong while bug is a problem in the code that caused the error.
 
-#### Callback function - 
+### Callback function - 
 
 A function (Plug-in) passed as an argument to another function or method (Worker). The function Worker call the function Plug-in within its context with the corresponding data, e.i.:
 

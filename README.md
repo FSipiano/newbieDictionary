@@ -51,7 +51,7 @@ AJAX just uses a combination of:
  - JavaScript and HTML DOM (to display or use the data)
 
 ### API -
-Stands for Application Programming Interface, is a software intermediary that allows two applications to talk to each other, is a contract between you and the software that you want to use, telling you what you can and can't do with it. It's a bridge allowing you to use the software and integrate it with your code, so that it becomes easier to integrate. Example- The google maps API allows you to integrate their maps to your apps through their API. 
+Stands for Application Programming Interface, which provides a comprehensive layer of communication and callbacks to the original software layer, so that it becomes easier to integrate. Example- The google maps API allows you to integrate their maps to your apps through their API. An API is a contract between you and the software that you want to use, telling you what you can and can't do with it. It's a bridge allowing you to use the software and integrate it with your code.
 
 ### Arrays -
 Arrays are containers that hold variables, they're used to group together similar variables. You can think of an array like a book shelf where books are kept next to each other in a row. Similarly arrays are stored in memory as a continuous block.
@@ -215,7 +215,7 @@ The name of a hosting service for storing and interacting with git repositories.
 Stands for ‘Integrated Development Environment’. It is somewhere that you write code, and has tools to help you write, structure and test it. Build, test, connect to databases, the works!
 
 ### Headless CMS -
-A Headless CMS is a back-end **Content Management System** where the content (data) is stored in a repository or a bucket which can be delivered to the presentation layer (for examples: web page, mobile app) with the help of an [API](#api-- "See API's definition here"). It is different from a traditional CMS as it is independent of the presentation layer and the same content can be reused across different platforms and devices.
+A Headless CMS is a back-end **Content Management System** where the content (data) is stored in a repository or a bucket which can be delivered to the presentation layer (for examples: web page, mobile app) with the help of an API. It is different from a traditional CMS as it is independent of the presentation layer and the same content can be reused across different platforms and devices.
 
 The presentation layer of a website is the “head” of a CMS, we are separating the head from the body (back-end layer of the CMS), that's why the name **"*Headless*" CMS**.
 
@@ -283,7 +283,7 @@ MEAN is a free and open-source JavaScript software stack for building dynamic we
 MERN Stack is a Javascript Stack that is used for easier and faster deployment of full-stack web applications. MERN Stack comprises of 4 technologies namely: MongoDB, Express, React and Node.js.
 
 ### MEVN Stack -
-MEVN stack is the open-source JavaScript software stack that has emerged as a new and evolving way to build powerful and dynamic web applications. This stack consists of MongoDB for NoSQL Database, Express.js for building the server, VueJS for front-end and Node.js as the JavaScript [runtime](#runtime-- "See runtime's definition here") environment.
+MEVN stack is the open-source JavaScript software stack that has emerged as a new and evolving way to build powerful and dynamic web applications. This stack consists of MongoDB for NoSQL Database, Express.js for building the server, VueJS for front-end and Node.js as the JavaScript runtime environment.
 
 ###  Namespace (in javascript) -
 While we are working on web applications using JavaScript functions and files, it would become difficult to challenge code. So to help us manage this code, we have a keyword ‘Namespace’ which will create mini objects of different modules or functionalities to make code readable. JavaScript does not provide Namespace by default but this functionality can be replicated. It is a container providing scope for set of identifiers, type names, functions or variables, and methods, etc. to prevent collisions among them. It can be created with ease, so with minor tweaks, a namespace can be created.
@@ -329,6 +329,9 @@ Also see [React](#reactjs--)
 In code, you can create an ‘object’ that you can refer to later, for example you can create a ‘person’ with a first name and last name, an age, and an eye colour. This can then be used again if you wanted to create another ‘person’
 
 ``var person = {firstName:"Faye", lastName:"Sipiano", age:27, eyeColor:"blue"};``
+
+### Open API -
+The OpenAPI Specification, public discoverable API, originally known as the Swagger Specification, is a specification for machine-readable interface files for describing, producing, consuming, and visualizing RESTful web services.
 
 ### Open source -
 A project or repository that anyone can request to make changes or updates to. This is a good way to learn. For example, this dictionary is Open Source.

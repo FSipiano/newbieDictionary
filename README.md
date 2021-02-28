@@ -81,6 +81,12 @@ The standard code you need to put into your code in order for it to run. An exam
 #### Bug - 
 A bug is a general term used to describe any unexpected problem with hardware or software. Its different from an error. Error is a message shown to let user know that something went wrong while bug is a problem in the code that caused the error.
 
+#### Cache - 
+A cache (pronounced as *cash*) is a temporary memory or storage area, for example, in browser or cloud.
+
+#### Caching - 
+Caching is the process of storing temporary data into a cache. For example, when we make a request to an API for the first time, we store the response's data into the browser's cache so that when we need the same data again then we don't need to make a request to the API, we can just get it from the cache. This helps in reducing network calls and make our apps faster.
+
 #### Callback function - 
 
 A function (Plug-in) passed as an argument to another function or method (Worker). The function Worker call the function Plug-in within its context with the corresponding data, e.i.:

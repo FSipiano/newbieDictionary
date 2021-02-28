@@ -205,6 +205,8 @@ The name of a hosting service for storing and interacting with git repositories.
 #### IDE - 
 Stands for ‘Integrated Development Environment’. It is somewhere that you write code, and has tools to help you write, structure and test it. Build, test, connect to databases, the works! 
 
+#### Headless CMS - 
+
 #### HTTP - 
 HTTP or Hypertext Transfer Protocol is the set of guidelines for transferring files such as texts, videos, sounds, images, and other multimedia files through the World Wide Web. The moment a Web user opens the browser, the user is indirectly making use of HTTP. 
 

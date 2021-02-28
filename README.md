@@ -215,6 +215,9 @@ The name of a hosting service for storing and interacting with git repositories.
 Stands for ‘Integrated Development Environment’. It is somewhere that you write code, and has tools to help you write, structure and test it. Build, test, connect to databases, the works!
 
 ### Headless CMS -
+A Headless CMS is a back-end **Content Management System** where the content (data) is stored in a repository or a bucket which can be delivered to the presentation layer (for examples: web page, mobile app) with the help of an API. It is different from a traditional CMS as it is independent of the presentation layer and the same content can be reused across different platforms and devices.
+
+The presentation layer of a website is the “head” of a CMS, we are separating the head from the body (back-end layer of the CMS), that's why the name **"*Headless*" CMS**.
 
 ### HTTP -
 HTTP or Hypertext Transfer Protocol is the set of guidelines for transferring files such as texts, videos, sounds, images, and other multimedia files through the World Wide Web. The moment a Web user opens the browser, the user is indirectly making use of HTTP.
@@ -278,6 +281,9 @@ MEAN is a free and open-source JavaScript software stack for building dynamic we
 
 ### MERN Stack -
 MERN Stack is a Javascript Stack that is used for easier and faster deployment of full-stack web applications. MERN Stack comprises of 4 technologies namely: MongoDB, Express, React and Node.js.
+
+### MEVN Stack -
+MEVN stack is the open-source JavaScript software stack that has emerged as a new and evolving way to build powerful and dynamic web applications. This stack consists of MongoDB for NoSQL Database, Express.js for building the server, VueJS for front-end and Node.js as the JavaScript runtime environment.
 
 ###  Namespace (in javascript) -
 While we are working on web applications using JavaScript functions and files, it would become difficult to challenge code. So to help us manage this code, we have a keyword ‘Namespace’ which will create mini objects of different modules or functionalities to make code readable. JavaScript does not provide Namespace by default but this functionality can be replicated. It is a container providing scope for set of identifiers, type names, functions or variables, and methods, etc. to prevent collisions among them. It can be created with ease, so with minor tweaks, a namespace can be created.

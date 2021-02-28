@@ -51,7 +51,7 @@ AJAX just uses a combination of:
  - JavaScript and HTML DOM (to display or use the data)
 
 ### API -
-Stands for Application Programming Interface, which provides a comprehensive layer of communication and callbacks to the original software layer, so that it becomes easier to integrate. Example- The google maps API allows you to integrate their maps to your apps through their API.
+Stands for Application Programming Interface, which provides a comprehensive layer of communication and callbacks to the original software layer, so that it becomes easier to integrate. Example- The google maps API allows you to integrate their maps to your apps through their API. An API is a contract between you and the software that you want to use, telling you what you can and can't do with it. It's a bridge allowing you to use the software and integrate it with your code.
 
 ### Arrays -
 Arrays are containers that hold variables, they're used to group together similar variables. You can think of an array like a book shelf where books are kept next to each other in a row. Similarly arrays are stored in memory as a continuous block.

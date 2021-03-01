@@ -2,6 +2,8 @@
 **I have made this Open Source (definition in the dictionary!) to enable us all to add and learn from each other!
 I want YOU to contribute. Click 'fork repository' (button in the top right), make your additions in your 'own version', and then create a pull request (definition below) to put it back into this main version! I'll review it and then add it in.** 😄
 
+As well as creating open source dictionaries, I am also a tech writer and am intent on making tech more friendly, one jargon at a time! [Here is my 'what **is**' series on dev.to](https://dev.to/javascriptcoff1/series/10250), where I explore common tech terms such as 'API' and 'hoisting' as well as technologies such as Vue, Tailwind and Docker!
+
 **If you'd like a word to be defined, just write it in the alphabetical place and write it like this:**
 
 ************

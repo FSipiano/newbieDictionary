@@ -31,9 +31,6 @@ But do they make sense to you, as a newbie?
 ### Absolutely not
 
 
-There are sometimes multiple words for the same thing, again - just to be confusing.
-
-
 
 
 

@@ -2,7 +2,7 @@
 **I have made this Open Source (definition in the dictionary!) to enable us all to add words/definitions and learn from each other!
 
 
-As well as creating this open source dictionary, I am also a tech writer and am intent on making tech more friendly, one jargon at a time! [Here is my 'what **is**' series on dev.to](https://dev.to/javascriptcoff1/series/10250), where I explore common tech terms such as 'API' and 'hoisting' as well as technologies such as Vue, Tailwind and Docker!
+As well as creating this open source dictionary, I am also a tech writer and blogger and I am intent on making tech more friendly, one jargon at a time! [Here is my 'what **is**' series on dev.to](https://dev.to/javascriptcoff1/series/10250), where I explore common tech terms such as 'API' and 'hoisting' as well as technologies such as Vue, Tailwind and Docker!
 
 **If you'd like a word to be defined, just write it in the alphabetical place and write it like this:**
 

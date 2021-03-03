@@ -1,6 +1,6 @@
 # newbieDictionary
-**I have made this Open Source (definition in the dictionary!) to enable us all to add and learn from each other!
-I want YOU to contribute. Click 'fork repository' (button in the top right), make your additions in your 'own version', and then create a pull request (definition below) to put it back into this main version! I'll review it and then add it in.** 😄
+**I have made this Open Source (definition in the dictionary!) to enable us all to add words/definitions and learn from each other!
+
 
 As well as creating open source dictionaries, I am also a tech writer and am intent on making tech more friendly, one jargon at a time! [Here is my 'what **is**' series on dev.to](https://dev.to/javascriptcoff1/series/10250), where I explore common tech terms such as 'API' and 'hoisting' as well as technologies such as Vue, Tailwind and Docker!
 
@@ -18,12 +18,7 @@ Definition
 
 
 
-
-I have been thinking about making this for some time, but I wanted to make sure that I had enough knowledge about random tech words before I started...
-
-
-
-A code/tech dictionary!
+I want YOU to contribute. Click 'fork repository' (button in the top right), make your additions in your 'own version', and then create a pull request (definition below) to put it back into this main version! I'll review it and then add it in.** 😄
 
 
 
@@ -35,7 +30,6 @@ But do they make sense to you, as a newbie?
 
 ### Absolutely not
 
-I have tried to gather a few words/phrases and definitions together here to help you out, and we can add to it as we go along!!
 
 There are sometimes multiple words for the same thing, again - just to be confusing.
 

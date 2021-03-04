@@ -14,11 +14,11 @@ Definition
 
 
 
-**You can then come back later and see if anyone has defined it!! I'll check often for these and promote them on Twitter so we can get great answers!!**
+**After leaving your word title, you can then come back later and see if anyone has defined it!! I'll check often for these and promote them on Twitter so we can get great answers!!**
 
 
 
-I want YOU to contribute. Click 'fork repository' (button in the top right), make your additions in your 'own version', and then create a pull request (definition below) to put it back into this main version! I'll review it and then add it in.** 😄
+I want _YOU_ to contribute. Click 'fork repository' (button in the top right), make your additions in your 'own version', and then create a pull request (definition below) to put it back into this main version! I'll review it and then add it in.** 😄
 
 
 

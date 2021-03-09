@@ -284,6 +284,9 @@ MERN Stack is a Javascript Stack that is used for easier and faster deployment o
 ### MEVN Stack -
 MEVN stack is the open-source JavaScript software stack that has emerged as a new and evolving way to build powerful and dynamic web applications. This stack consists of MongoDB for NoSQL Database, Express.js for building the server, VueJS for front-end and Node.js as the JavaScript [runtime](#runtime-- "See runtime's definition here") environment.
 
+### Module bundler -
+A module bundler is a tool used by developers to put all JavaScript files and their dependencies into one or several files. They help developers manage all the dependencies included and the relationship between them. Although the main goal of module bundlers is to bundle JavaScript files, they can also be used for other types of files and assets. Examples are [Webpack](#webpack-- "See Webpack definition") and Parcel.
+
 ###  Namespace (in javascript) -
 While we are working on web applications using JavaScript functions and files, it would become difficult to challenge code. So to help us manage this code, we have a keyword ‘Namespace’ which will create mini objects of different modules or functionalities to make code readable. JavaScript does not provide Namespace by default but this functionality can be replicated. It is a container providing scope for set of identifiers, type names, functions or variables, and methods, etc. to prevent collisions among them. It can be created with ease, so with minor tweaks, a namespace can be created.
 
@@ -446,6 +449,9 @@ A string is a data type used in programming, such as an integer and floating poi
 ### Syntactic sugar -
 Syntax within a programming language that is designed to make things easier to read or to express.
 
+### Task runners -
+A task runner is a program that can be configured to do a series of tasks that developers would have to do by hand otherwise, which would be a repetitive and time-consuming process. An example would be set a task runner to compile stylesheet files other than CSS into CSS files for browsers to understand. You can concatenate several tasks to run one after the other, or tell the task runner to watch for changes to automatically update the files. Examples are Gulp and Grunt.
+
 ### Technical debt -
 Extra development work that arises when code that is easy to implement in the short run is used instead of applying the best overall solution. If you keep implementing short term solutions, you'll soon be paying a lot of interest (Time, money) when adding new features because the codebase will be a mess.
 
@@ -480,5 +486,5 @@ A system for managing changes and edits made to a document. Popular version cont
 ### Virtual Machine (VM) -
 Software that makes it possible to use one computer operating system (like Linux) on a computer running another system (like MacOS). Examples include Virtual Box, Parallels, and VM Ware.
 
-### Web-pack -
-web-pack is an open-source JavaScript module bundler. It is a module bundler primarily for JavaScript, but it can transform front-end assets like HTML, CSS, and images if the corresponding loaders are included. web-pack takes modules with dependencies and generates static assets representing those modules.
+### Webpack -
+Webpack is an open-source JavaScript module bundler. It is a module bundler primarily for JavaScript, but it can transform front-end assets like HTML, CSS, and images if the corresponding loaders are included. Webpack takes modules with dependencies and generates static assets representing those modules.

@@ -42,8 +42,10 @@ But do they make sense to you, as a newbie?
 A numeronym for accessibility, where the number 11 refers to the number of letters omitted. A11y refers to the accessibility of a computer system to all people, regardless of disability type or severity of impairment.
 
 ### AJAX -
-AJAX is not a programming language.
+AJAX is not a programming language. AJAX stands for **A**synchronous **J**avascript **A**nd **X**ML. However, it does transport other types of data such as JSON.
+
 AJAX just uses a combination of:
+
  - A browser built-in XMLHttpRequest object (to request data from a web server)
  - JavaScript and HTML DOM (to display or use the data)
 

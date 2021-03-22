@@ -284,7 +284,7 @@ MEAN is a free and open-source JavaScript software stack for building dynamic we
 MERN Stack is a Javascript Stack that is used for easier and faster deployment of full-stack web applications. MERN Stack comprises of 4 technologies namely: MongoDB, Express, React and Node.js.
 
 ### MEVN Stack -
-MEVN stack is the open-source JavaScript software stack that has emerged as a new and evolving way to build powerful and dynamic web applications. This stack consists of MongoDB for NoSQL Database, Express.js for building the server, VueJS for front-end and Node.js as the JavaScript [runtime](#runtime-- "See runtime's definition here") environment.
+MEVN stack is the open-source JavaScript software stack that has emerged as a new and evolving way to build powerful and dynamic web applications. This stack consists of MongoDB for NoSQL Database, Express.js for building the server, VueJS for front-end and Node.js.
 
 ### Module bundler -
 A module bundler is a tool used by developers to put all JavaScript files and their dependencies into one or several files. They help developers manage all the dependencies included and the relationship between them. Although the main goal of module bundlers is to bundle JavaScript files, they can also be used for other types of files and assets. Examples are [Webpack](#webpack-- "See Webpack definition") and Parcel.
@@ -328,6 +328,9 @@ With Next.js, server rendering React applications has never been easier, no matt
 Next.js also supports static exporting, but for the purposes of this post, we are focused on that “server rendering” capability mentioned above.
 
 Also see [React](#reactjs--)
+
+### Node.js -
+Node.js is JavaScript [Runtime](#runtime-- "See runtime's definition here") Environment that runs the V8 JavaScript engine outside of the browser. JavaScript is a single-threaded language (it cannot run two processes simultaneously), but Node.js provides a set of asynchronous functions that perform input/output operations in a non-blocking manner, allowing Node.js to handle several concurrent conections with a single server with ease. It allows frontend developers to write server-side code using JavaScript without the need of learning another language.
 
 ### Objects -
 In code, you can create an ‘object’ that you can refer to later, for example you can create a ‘person’ with a first name and last name, an age, and an eye colour. This can then be used again if you wanted to create another ‘person’

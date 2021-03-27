@@ -1,4 +1,4 @@
-# newbieDictionary
+# newbieDictionary 📖
 **This dictionary is Open Source (definition in the dictionary!) to enable us all to add words/definitions and learn from each other!**
 
 

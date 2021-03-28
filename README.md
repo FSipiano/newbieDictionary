@@ -141,16 +141,8 @@ A compiler is a program that translates computer programs written using letters,
 ### Cryptography -
 The art of hiding secrets and researching for secure communications, to protect them from third parties.
 
-### DDD -
-
-Definition
-
 ### Destructuring -
 This means to unpack values in a data structure such as an Object or Array.
-
-### Design Pattern -
-
-Definition
 
 ### Directory -
 Another word for folder.
@@ -464,10 +456,6 @@ Syntax within a programming language that is designed to make things easier to r
 
 ### Task runners -
 A task runner is a program that can be configured to do a series of tasks that developers would have to do by hand otherwise, which would be a repetitive and time-consuming process. An example would be set a task runner to compile stylesheet files other than CSS into CSS files for browsers to understand. You can concatenate several tasks to run one after the other, or tell the task runner to watch for changes to automatically update the files. Examples are Gulp and Grunt.
-
-### TDD -
-
-Definition
 
 ### Technical debt -
 Extra development work that arises when code that is easy to implement in the short run is used instead of applying the best overall solution. If you keep implementing short term solutions, you'll soon be paying a lot of interest (Time, money) when adding new features because the codebase will be a mess.

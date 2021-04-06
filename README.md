@@ -143,7 +143,15 @@ The art of hiding secrets and researching for secure communications, to protect 
 
 ### DDD -
 
-Definition
+Domain Driven Design. 
+
+Career programmers face many different problems. It could be something critical and nuanced like code to control a nuclear reactor; Or something simpler like a door sensor. 
+
+In either case, the programmer must come to understand the problem the code is solving to effectively solve it. As the code is written and more requirements are gathered, the programmer's understanding will expand. As that understanding expands, the code must be updated to reflect it. 
+
+Source code that starts as a collection of 'foos' and 'bars' should evolve into a more meaningful document. Terms used by the end user will match the terms used by the programmer. In this way, domain driven design leads to more productive conversations between software engineers and users.
+
+tl;dr: your variable and function names will be terms that your users are familiar with.
 
 ### Design Pattern -
 

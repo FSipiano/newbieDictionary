@@ -1,10 +1,11 @@
 # newbieDictionary 📖
 **This dictionary is Open Source (definition in the dictionary!) to enable us all to add words/definitions and learn from each other!**
 
+**Open source content maintained by [Faye Sipiano](https://www.fayesipiano.co.uk/)**
 
 As well as creating this open source dictionary, I am also a tech writer and blogger and I am intent on making tech more friendly, one jargon at a time!
 
-In my ['what ** is**' series](https://dev.to/javascriptcoff1/series/10250), I explore common tech terms such as 'API' and 'hoisting' as well as technologies such as Vue, Tailwind and Docker!
+In my ['What ** is**' series](https://dev.to/javascriptcoff1/series/10250), I explore common tech terms such as 'API' and 'hoisting' as well as technologies such as Vue, Tailwind and Docker!
 
 **If you'd like to contribute a definition or would like a word to be defined, just write it in the alphabetical place and write it like this:**
 

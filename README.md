@@ -3,39 +3,23 @@
 
 **Open source content maintained by [Faye Sipiano](https://www.fayesipiano.co.uk/)**
 
-As well as creating this open source dictionary, I am also a tech writer and blogger and I am intent on making tech more friendly, one jargon at a time!
-
+As well as creating this open source dictionary, I am also a tech writer and blogger and I am intent on making tech more friendly, busting one jargon at a time!
 In my ['What ** is**' series](https://dev.to/javascriptcoff1/series/10250), I explore common tech terms such as 'API' and 'hoisting' as well as technologies such as Vue, Tailwind and Docker!
-
-**If you'd like to contribute a definition or would like a word to be defined, just write it in the alphabetical place and write it like this:**
-
-************
-### Word -
-Definition
-************
-
-
-
-
-**After leaving your word title, you can then come back later and see if anyone has defined it!! I'll check often for these and promote them on Twitter so we can get great answers!!**
-
-
 
 I want _YOU_ to contribute. Click the 'fork repository' button (in the top right), make your additions in your 'own version', and then create a pull request (definition below) to put it back into this main version! I'll review it and then add it in. 😄
 
-
-
+---
 Sometimes, (well for me at least) it very much seems that this industry has overcomplicated words and phrases for things _on purpose._
 
 You may be learning from someone who has been in the industry for a while, and for them, these words _just make sense_
 
 But do they make sense to you, as a newbie?
 
-### Absolutely not
+## Absolutely not
 
 
 
-
+---
 
                                                       📖
 

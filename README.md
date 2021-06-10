@@ -1,5 +1,5 @@
 # newbieDictionary 📖
-**This dictionary is Open Source (definition in the dictionary!) to enable us all to add words/definitions and learn from each other!**
+**This dictionary is [Open Source](Open source--) to enable us all to add words/definitions and learn from each other!**
 
 **Open source content maintained by [Faye Sipiano](https://www.fayesipiano.co.uk/)**
 
@@ -364,7 +364,7 @@ Some algorithms can be reduced to a simple function that acts on the value retur
 
 Recursive algorithms must have an end condition so that it doesn't recurse infinitely. However, care must be taken when using recursion, as a practical limitation of recursion is high **stack memory** usage, which can lead to a problem known as **stack overflow** (which the popular programming question & answer website is named after)
 
-Alse see [Recursion](#recursion--)
+Also see [Recursion](#recursion--)
 
 ### Reactjs -
 An open-source, front end, JavaScript library for building user interfaces or UI components. It is maintained by Facebook and a community of individual developers and companies. React can be used as a base in the development of single-page or mobile applications.

@@ -1,5 +1,5 @@
 # newbieDictionary 📖
-**This dictionary is [Open Source](#Open-source--) to enable us all to add words/definitions and learn from each other!**
+**This dictionary is [Open Source](#Open-source--) to enable us all to learn from each other!**
 
 **Open source content maintained by [Faye Sipiano](https://www.fayesipiano.co.uk/)**
 

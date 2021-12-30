@@ -125,6 +125,9 @@ Can also stand for Common Language Infrastructure. A tool, developed by Microsof
 ### Compiler -
 A compiler is a program that translates computer programs written using letters, numbers, and characters into a machine language program that can be read and executed by a computer. For example gcc compiler is used to compile a C program.
 
+### Content - 
+The substance of a website or digital experience. Content refers primarily to the text written for & placed on webpages, meant for consumption by the reader. You can also refer to images, videos, and documents integrated with the text as 'content.'
+
 ### Cryptography -
 The art of hiding secrets and researching for secure communications, to protect them from third parties.
 
@@ -150,6 +153,9 @@ This means to unpack values in a data structure such as an Object or Array.
 ### Directory -
 Another word for folder.
 _”Navigate to the correct directory”_ = go to the right folder.
+
+### Documentation - 
+The produced content from a technical writer. Documentation provides a reference, tutorial, or explanation for a specific product, service, or action. Its intended audience can include developers, administrators, and users.
 
 ### DOM -
 Stands for Document Object Model. Always in capitals like that. A place in the browser to see a page’s HTML, CSS, and JavaScript all working together like a happy little family. You can type in it and add stuff. Useful when making a website and you want something to look a particular way.
@@ -261,6 +267,9 @@ A piece of software running as a communicator between regular software and hardw
 ### Key-Value Pairs
 
 Key-value pairs let us give labels (or keys) to pieces of information (or values). We can use the labels to retrieve that information later on. They are also called attribute-value pairs. The key is like an index, but can be a more sensible way to name a piece of information than by its position. We can add key-value pairs to data structures like objects (e.g. in JavaScript), or dictionaries (in Python). Pair a key with its value by using a colon between them. Separate each complete pair with a comma when entering them. E.g. `{keyA: valueA, keyB: valueB, keyC: valueC}` contains three key-value pairs.
+
+### LAMP - 
+Acronym for "Linux Apache MySQL PHP." A 'LAMP Stack' groups these software applications into a platform usable for server testing, or local server deployments.
 
 ### Library -
 A collection of functions which can be added to your application and the functions called as necessary, just like any other functions in the application. More precisely any object, not only functions can be stored in a library, but the vast majority of libraries only contain functions.
@@ -451,6 +460,9 @@ Any collection of code that is displayed in a human readable format. Source code
 ### SPA -
 Stands for Single Page Application. A web app that loads with a single browser load. While the app can contain multiple "pages", these are either already pre-loaded, and displayed using Javascript; or content is fetched dynamically using an API without loading a new page (a loading icon may be displayed, or the content fetched in the background while the user scrolls)
 
+### SSG - 
+Stands for "static site generator." An application which converts text styled with markup language (e.g. Markdown) into HTML files for publication on the Web.
+  
 ### String -
 A string is a data type used in programming, such as an integer and floating point unit, but is used to represent text rather than numbers. It is comprised of a set of characters that can also contain spaces and numbers. For example, the word "hamburger" and the phrase "I ate 3 hamburgers" are both strings. Even "12345" could be considered a string, if specified correctly. Typically, programmers must enclose strings in quotation marks for the data to be recognized as a string and not a number or variable name.
 
@@ -465,6 +477,9 @@ A task runner is a program that can be configured to do a series of tasks that d
 
 ### Technical debt -
 Extra development work that arises when code that is easy to implement in the short run is used instead of applying the best overall solution. If you keep implementing short term solutions, you'll soon be paying a lot of interest (Time, money) when adding new features because the codebase will be a mess.
+
+### Technical Writing - 
+The practice of writing technical reference/educational material. This includes [Documentation](#documentation--).
 
 ### Template (code) -
 Template is code you use to build new code from. It is a model or pattern you use as a starting point that you modify for a specific use-case.

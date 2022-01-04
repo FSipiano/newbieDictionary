@@ -146,8 +146,7 @@ Source code that starts as a collection of 'foos' and 'bars' should evolve into 
 tl;dr: your variable and function names will be terms that your users are familiar with.
 
 ### Design Pattern -
-
-
+A design pattern is a general, reusable solution to a commonly occurring problem within a given context in software design.
 
 ### Destructuring -
 This means to unpack values in a data structure such as an Object or Array.

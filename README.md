@@ -479,7 +479,7 @@ A task runner is a program that can be configured to do a series of tasks that d
 Extra development work that arises when code that is easy to implement in the short run is used instead of applying the best overall solution. If you keep implementing short term solutions, you'll soon be paying a lot of interest (Time, money) when adding new features because the codebase will be a mess.
 
 ### Technical Writing - 
-The practice of writing technical reference/educational material. This includes [Documentation](#documentation--).
+The practice of writing technical reference/educational material. This includes [Documentation](#documentation--). Technical writing is not exclusively used in the tech industry and although knowledge of technology and technological practices are often useful, it is not an entry requirement in thtis field.
 
 ### Template (code) -
 Template is code you use to build new code from. It is a model or pattern you use as a starting point that you modify for a specific use-case.

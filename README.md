@@ -3,7 +3,9 @@
 
 **Open source content maintained by [Faye Sipiano](https://www.fayesipiano.co.uk/)**
 
-As well as creating this open source dictionary, I am also a tech writer and blogger and I am intent on making tech more friendly, busting one jargon at a time!
+As well as creating this open source dictionary, I am also a technical writer and tech blogger.
+
+I am intent on making tech more friendly, busting one jargon at a time!
 In my ['What ** is**' series](https://dev.to/javascriptcoff1/series/10250), I explore common tech terms such as 'API' and 'hoisting' as well as technologies such as Vue, Tailwind and Docker!
 
 I want _YOU_ to contribute. Click the 'fork repository' button (in the top right), make your additions in your 'own version', and then create a pull request (definition below) to put it back into this main version! I'll review it and then add it in. 😄

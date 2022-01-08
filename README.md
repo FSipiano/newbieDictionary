@@ -10,7 +10,7 @@ In my ['What ** is**' series](https://dev.to/javascriptcoff1/series/10250), I ex
 
 I want _YOU_ to contribute.
 Never contributed to Open Source before?! That's cool - consider this your gateway drug..
-Click the 'fork repository' button (in the top right), make your additions in your 'own version', and then create a pull request (definition below) to put it back into this main version! I'll review it and then add it in. 😄
+Click the 'fork' button ![image](https://user-images.githubusercontent.com/67593261/148640083-0e0bb5e9-7146-4c0a-a1b4-8a4eb8064936.png) (in the top right), make your additions in your 'own version', and then create a pull request (definition below) to put it back into this main version! I'll review it and then add it in. 😄
 
 
 ---

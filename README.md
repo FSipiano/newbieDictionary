@@ -146,8 +146,12 @@ Source code that starts as a collection of 'foos' and 'bars' should evolve into 
 tl;dr: your variable and function names will be terms that your users are familiar with.
 
 ### Design Pattern -
-
-
+Design patterns are design level solutions for recurring problems that all software engineers often come cross and its most times created for and used by OOP languages,like Java. Its like an industry standard or description on how to tackle software problems and designs solutions. Using these patterns are considered a good practice, as the design of the solution is tried and tested, resulting in good readability of the final code. There are about 26 Patterns but mainly there are five well-known design patterns possible to implement in a wide scope of programming languages:
+- Singleton Pattern/Creational.
+- Abstract Factory Pattern.
+- Builder Pattern.
+- Factory Method Pattern.
+- Prototype Pattern.
 
 ### Destructuring -
 This means to unpack values in a data structure such as an Object or Array.

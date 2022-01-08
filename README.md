@@ -54,7 +54,7 @@ Authentication is the process of recognizing a user's identity. In authenticatio
 Authorization is the process of determining a user's access levels, or permissions, to various systems or features once **authenticated**. For example, a user may be authorized for read-only access or administrator access.
 
 ### Babel -
-A JavaScript transpiler that converts edge JavaScript into plain old ES5 JavaScript that can run in any browser (even the old ones).
+A JavaScript [transpiler](#transpile-- "See transpile definition") that converts edge JavaScript into plain old ES5 JavaScript that can run in any browser (even the old ones).
 Currently, most browsers support ES5. 
 
 If you want to learn about ES6. All the good features of ES6 accompany one big problem — the majority of browsers don’t fully support them. That’s when Babel comes to its work. Babel may be a JS transpiler that converts new JS code into old ones. It is a really flexible tool in terms of transpiring. One can easily add assets such as es2015, es2016, es2017, or env; so that Babel compiles them to ES5.

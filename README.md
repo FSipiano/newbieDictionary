@@ -19,7 +19,7 @@ Click the 'fork' button (in the top right), make your additions in your 'own ver
 ---
 Sometimes, (well for me at least) it very much seems that this industry has overcomplicated words and phrases for things _on purpose._
 
-You may be learning from someone who has been in the industry for a while, and for them, these words _just make sense_
+You may be learning from someone who has been in the industry for a while, and for them, these words _just make sense_.
 
 But do they make sense to you, as a newbie?
 

@@ -124,6 +124,9 @@ greetings('Test #3', notifyBySweetAlert) // this one require sweet alert 2 lib
 
 ```
 
+### CI/CD
+This is a method whereby a product is continuously delivered to a customer by introducing automation at each stage of development. The term CI/CD means Continuous Intergration/Continuous Delivery/Deployment.
+
 ### CLI -
 
 See [Terminal or Cli](#terminal-or-cli--)

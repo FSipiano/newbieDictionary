@@ -241,6 +241,17 @@ A Headless CMS is a back-end **Content Management System** where the content (da
 
 The presentation layer of a website is the “head” of a CMS, we are separating the head from the body (back-end layer of the CMS), that's why the name **"*Headless*" CMS**.
 
+### Hoisting
+This is a javascript concept whereby the interpreter automatically moves varaiables and function declarations to the top of the code.This enables the variable or function to be called first, and declared later. 
+
+```js
+MyName("Lucy");
+
+const MyName = function(name){
+   console.log("My name is" +name);
+};
+```
+
 ### HTTP -
 HTTP or Hypertext Transfer Protocol is the set of guidelines for transferring files such as texts, videos, sounds, images, and other multimedia files through the World Wide Web. The moment a Web user opens the browser, the user is indirectly making use of HTTP.
 

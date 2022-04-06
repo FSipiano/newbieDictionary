@@ -255,6 +255,8 @@ const MyName = function(name){
 };
 ```
 
+For more information on **hoisting**, please take a look at Faye's ['What **is** hoisting?'](https://dev.to/javascriptcoff1/what-is-hoisting-2gkl) article
+
 ### HTTP -
 HTTP or Hypertext Transfer Protocol is the set of guidelines for transferring files such as texts, videos, sounds, images, and other multimedia files through the World Wide Web. The moment a Web user opens the browser, the user is indirectly making use of HTTP.
 

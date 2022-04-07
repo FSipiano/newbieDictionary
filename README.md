@@ -136,6 +136,9 @@ Can also stand for Common Language Infrastructure. A tool, developed by Microsof
 ### Compiler -
 A compiler is a program that translates computer programs written using letters, numbers, and characters into a machine language program that can be read and executed by a computer. For example gcc compiler is used to compile a C program.
 
+### Compile time -
+Compile time refers to the time duration during which the statements written in any programming language are checked for errors.
+
 ### Content - 
 The substance of a website or digital experience. Content refers primarily to the text written for & placed on webpages, meant for consumption by the reader. You can also refer to images, videos, and documents integrated with the text as 'content.'
 
@@ -196,7 +199,7 @@ A platform developed by Google to build mobile and web applications. It provides
 -You’re gonna save a ton of time and money using Firebase products rather than trying to build them yourself.
 
 ### Float -
- A float is short for floating-point number. It's a common way for computers to store decimal numbers or fractions
+A float is a single precision, 32 bits floating-point number used to save data to memory in large arrays of numbers with decimal points. It's a common way for computers to store decimal numbers or fractions
  ```c
  float b = 0.0;
  ```

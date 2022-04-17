@@ -199,7 +199,7 @@ A platform developed by Google to build mobile and web applications. It provides
 -You’re gonna save a ton of time and money using Firebase products rather than trying to build them yourself.
 
 ### Float -
-A float is a single precision, 32 bits floating-point number used to save data to memory in large arrays of numbers with decimal points. It's a common way for computers to store decimal numbers or fractions
+A float is a single precision, 32 bits floating-point number used to save data to memory, i.e. It can hold 6-7 significant digits with decimal points. e.g. ```1.2 x 10^-38 to 3.4 x 10^+38 ```  It's a common way for computers to store decimal numbers or fractions.
  ```c
  float b = 0.0;
  ```

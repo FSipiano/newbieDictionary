@@ -1,7 +1,7 @@
 # newbieDictionary 📖
+###### Open source content maintained by [Faye Sipiano](https://www.fayesipiano.co.uk/)
 **This dictionary is [Open Source](#Open-source--) to enable us to share and learn**
 
-**Open source content maintained by [Faye Sipiano](https://www.fayesipiano.co.uk/)**
 
 As well as creating and maintaining this open source dictionary, I am also a technical writer and tech blogger.
 
@@ -136,6 +136,9 @@ Can also stand for Common Language Infrastructure. A tool, developed by Microsof
 ### Compiler -
 A compiler is a program that translates computer programs written using letters, numbers, and characters into a machine language program that can be read and executed by a computer. For example gcc compiler is used to compile a C program.
 
+### Compile time -
+Compile time refers to the time duration during which the statements written in any programming language are checked for errors.
+
 ### Content - 
 The substance of a website or digital experience. Content refers primarily to the text written for & placed on webpages, meant for consumption by the reader. You can also refer to images, videos, and documents integrated with the text as 'content.'
 
@@ -196,7 +199,7 @@ A platform developed by Google to build mobile and web applications. It provides
 -You’re gonna save a ton of time and money using Firebase products rather than trying to build them yourself.
 
 ### Float -
- A float is short for floating-point number. It's a common way for computers to store decimal numbers or fractions
+A float is a single precision, 32 bits floating-point number used to save data to memory, i.e. It can hold 6-7 significant digits with decimal points. e.g. ```1.2 x 10^-38 to 3.4 x 10^+38 ```  It's a common way for computers to store decimal numbers or fractions.
  ```c
  float b = 0.0;
  ```
@@ -243,6 +246,19 @@ Stands for ‘Integrated Development Environment’. It is somewhere that you wr
 A Headless CMS is a back-end **Content Management System** where the content (data) is stored in a repository or a bucket which can be delivered to the presentation layer (for examples: web page, mobile app) with the help of an [API](#api-- "See API's definition here"). It is different from a traditional CMS as it is independent of the presentation layer and the same content can be reused across different platforms and devices.
 
 The presentation layer of a website is the “head” of a CMS, we are separating the head from the body (back-end layer of the CMS), that's why the name **"*Headless*" CMS**.
+
+### Hoisting
+This is a javascript concept whereby the interpreter automatically moves varaiables and function declarations to the top of the code.This enables the variable or function to be called first, and declared later. 
+
+```js
+MyName("Lucy");
+
+const MyName = function(name){
+   console.log("My name is" +name);
+};
+```
+
+For more information on **hoisting**, please take a look at Faye's ['What **is** hoisting?'](https://dev.to/javascriptcoff1/what-is-hoisting-2gkl) article
 
 ### HTTP -
 HTTP or Hypertext Transfer Protocol is the set of guidelines for transferring files such as texts, videos, sounds, images, and other multimedia files through the World Wide Web. The moment a Web user opens the browser, the user is indirectly making use of HTTP.

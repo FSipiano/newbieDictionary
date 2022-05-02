@@ -1,6 +1,5 @@
 # newbieDictionary 📖
 ###### Open source content maintained by [Faye Sipiano](https://www.fayesipiano.co.uk/)
-**This dictionary is [Open Source](#Open-source--) to enable us to share and learn**
 
 
 As well as creating and maintaining this open source dictionary, I am also a technical writer and tech blogger.

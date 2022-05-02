@@ -382,6 +382,9 @@ In code, you can create an ‘object’ that you can refer to later, for example
 
 ### Open source -
 A project or repository that anyone can request to make changes or updates to. This is a good way to learn. For example, this dictionary is Open Source.
+ 
+### Parsing
+The process of taking data in one format and transforming or converting it into another format. For example, converting [JSON](#json--) format of data to [Objects](#objects--) in JavaScript.
 
 ### Pseudocode -
 A human-readable explanation of how something should work – the way and order that it runs in. Pseudocode does not have to follow the rules of any programming language. It is a description of what the code in a program is doing so that even non-technical individuals can understand its logic.

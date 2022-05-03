@@ -277,6 +277,21 @@ A full list and detailed explanation of each status can be found [here](https://
 ### HTTPS
 Stands for “Hypertext Transfer Protocol Secure” which means the webpage has a special layer of encryption added to hide your personal details and passwords. Hence, if you wish to secure your bank account details at an online shopping site, look for “https” in the URL.
 
+### Infinite Loop
+An infinite loop is a sequence of instructions that lacks a functional exit that is, it repeats indefinitely. It is sometimes called an **endless loop**.
+
+code snippet of an **infinite loop** `using C++ syntax`
+
+```
+ int main() {
+ for ( int i = 1; i < 20; i-- )
+   std::cout << "Infinite Loop has occured!!" << '\n' << endl;
+
+return 0;
+
+}
+```
+
 ### Integer -
 An integer (pronounced IN-tuh-jer) is basically a data type in programming language and also an integer is a whole number (not a fractional number) that can be positive, negative, or zero.
 

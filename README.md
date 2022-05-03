@@ -382,6 +382,8 @@ In code, you can create an ‘object’ that you can refer to later, for example
 
 ``var person = {firstName:"Faye", lastName:"Sipiano", age:27, eyeColor:"blue"};``
 
+### Object prototypes - Every object in JavaScript has a built-in property, which is called its prototype. Prototypes are the mechanism by which JavaScript objects inherit features from one another. The prototypes themselves are also objects, meaning they will have a prototype of their own, creating what is referred to as a "prototype chain." This chain only ends when a prototype returns "null" for its own prototype. If a particular property cannot be located on an object itself, the prototype chain is searched, until either the property is found, or the end of the chain is reached, in which case "undefined" is returned.
+
 ### Open source -
 A project or repository that anyone can request to make changes or updates to. This is a good way to learn. For example, this dictionary is Open Source.
  

@@ -381,6 +381,8 @@ Node.js is JavaScript [Runtime](#runtime-- "See runtime's definition here") Envi
 In code, you can create an ‘object’ that you can refer to later, for example you can create a ‘person’ with a first name and last name, an age, and an eye colour. This can then be used again if you wanted to create another ‘person’
 
 ``var person = {firstName:"Faye", lastName:"Sipiano", age:27, eyeColor:"blue"};``
+### Object prototypes - 
+Every object in JavaScript has a built-in property, which is called its prototype. Prototypes are the mechanism by which JavaScript objects inherit features from one another. Prototypes are objects themselves, and so they will also have prototypes of their own, creating what is known as a "prototype chain." This chain ends when a prototype returns a value of "null" for its own prototype. If a property cannot be located on an object itself, the prototype chain is then searched, until either the property is found, or the end of the chain is reached, in which case a value of "undefined" is returned. 
 
 ### Open source -
 A project or repository that anyone can request to make changes or updates to. This is a good way to learn. For example, this dictionary is Open Source.

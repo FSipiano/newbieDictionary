@@ -1,6 +1,6 @@
 # newbieDictionary 📖
-###### Open source content maintained by [Faye Sipiano](https://www.fayesipiano.co.uk/)
-
+##### Open source content maintained by [Faye Sipiano](https://twitter.com/JavaScriptCoff1)
+###### Freelance technical writer, mentor, blogger, strategist, marketer
 
 As well as creating and maintaining this open source dictionary, I am also a technical writer and tech blogger.
 

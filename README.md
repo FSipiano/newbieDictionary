@@ -192,6 +192,9 @@ It’s easy to build cross-platform apps using HTML, CSS, and JavaScript. Your a
 ### Environment -
 Where you are working within your computer. For example, if you are making a webpage, your environment would be a **text editor** or **IDE** and the browser window.
 
+### Endless loop -
+See **Infinite loop**
+
 ### Firebase -
 A platform developed by Google to build mobile and web applications. It provides services like Authentication, Realtime Database, Cloud Firestore , Cloud Storage, Cloud Functions,web  hosting, ML Kit etc.
 
@@ -277,7 +280,7 @@ A full list and detailed explanation of each status can be found [here](https://
 Stands for “Hypertext Transfer Protocol Secure” which means the webpage has a special layer of encryption added to hide your personal details and passwords. Hence, if you wish to secure your bank account details at an online shopping site, look for “https” in the URL.
 
 ### Infinite Loop
-An infinite loop is a sequence of instructions that lacks a functional exit that is, it repeats indefinitely. It is sometimes called an **endless loop**.
+An infinite loop is a sequence of instructions that lacks a functional exit meaning that it repeats indefinitely. It is sometimes called an **endless loop**.
 
 code snippet of an **infinite loop** `using C++ syntax`
 

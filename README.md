@@ -7,7 +7,9 @@ As well as creating and maintaining this open source dictionary, I am also a tec
 I am intent on making tech more friendly, busting one jargon at a time!
 In my ['What ** is**' series](https://dev.to/javascriptcoff1/series/10250), I explore common tech terms such as 'API' and 'hoisting' as well as technologies such as Vue, Tailwind and Docker!
 
-I want _YOU_ to contribute.
+Here, we can all contribute and help each other on this journey of understanding.
+
+
 Never contributed to Open Source before?! That's cool - consider this your gateway drug..
 Click the 'fork' button (in the top right), make your additions in your 'own version', and then create a pull request (definition below) to put it back into this main version! I'll review it and then add it in. 😄
 

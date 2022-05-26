@@ -159,6 +159,17 @@ tl;dr: your variable and function names will be terms that your users are famili
 ### Delimiter -
 A delimiter is a character that marks the beginning or end of some section. Common delimiters are commas `(,)`, semicolon `(;)`, quotes `("")`, braces `({})`, pipes `(|)`, or slashes `( / \ )`. 
 
+**Example of using a delimiter in C++ programming language** 
+<br>
+The braces ```({})``` are used to show the beginning and end of a function. As shown in line 1 and 5. 
+```
+1. int main(){
+2. std::cout<< "Hello Newbie Dictionary";
+3. return 0;
+4. 
+5. }
+```
+
 ### Design Pattern -
 Design patterns are design level solutions for recurring problems that all software engineers often come cross and its most times created for and used by OOP languages,like Java. Its like an industry standard or description on how to tackle software problems and designs solutions. Using these patterns are considered a good practice, as the design of the solution is tried and tested, resulting in good readability of the final code. There are about 26 Patterns but mainly there are five well-known design patterns possible to implement in a wide scope of programming languages:
 - Singleton Pattern/Creational.

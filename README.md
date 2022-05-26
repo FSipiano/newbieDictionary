@@ -157,7 +157,7 @@ Source code that starts as a collection of 'foos' and 'bars' should evolve into 
 tl;dr: your variable and function names will be terms that your users are familiar with.
 
 ### Delimiter -
-A delimiter is a character that marks the beginning or end of some section. Common delimiters are commas `(,)`, semicolon `(;)`, quotes `("")`, braces `({})`, pipes `(|)`, or slashes `( / \ )`. 
+A delimiter is a character that marks the beginning or end of a section. Common delimiters are commas `(,)`, semicolon `(;)`, quotes `("")`, braces `({})`, pipes `(|)`, or slashes `( / \ )`. 
 
 **Example of using a delimiter in C++ programming language** 
 <br>

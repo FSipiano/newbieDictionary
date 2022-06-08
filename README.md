@@ -205,6 +205,10 @@ Electron is a framework for cross-platform desktop applications using Chromium a
 
 It’s easy to build cross-platform apps using HTML, CSS, and JavaScript. Your app will be compatible with Mac, Windows, and Linux operating systems right out of the box. 8. Source code - Source code is the list of human-readable instructions that a programmer writes—often in a word processing program—when he is developing a program. The source code is run through a compiler to turn it into machine code, also called object code, that a computer can understand and execute. Object code consists primarily of 1s and 0s, so it isn't human-readable.
 
+### Encapsulation -
+Encapsulation is one of the core concepts in object-oriented programming which involves hiding data members within a class and making it available only through the methods.<br>
+When we declare data members as ```public```, the data members are readily accessible by other classes and that exposes the internal workings of the class, thereby violating encapsulation. Therefore, we declare members to be private to hide the data members of the class from the other classes. Thus, using the ```private``` and ```protected``` keywords.
+
 ### Environment -
 Where you are working within your computer. For example, if you are making a webpage, your environment would be a **text editor** or **IDE** and the browser window.
 

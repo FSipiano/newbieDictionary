@@ -575,6 +575,14 @@ The process of turning code from one language into another. Examples include: Ty
 
 ### TTFB -
 Time to first byte (TTFB) is a measurement used as an indication of the responsiveness of a web server. How fast do you see the page? It measures the duration from the user or client making an HTTP request to the first byte of the page being received by the client's browser. Google Chrome Lighthouse reports can describe TTFB.
+  
+### Typecasting -
+Typecasting is a process of converting a value of one data type to another. The process is achieved by the use of a cast operator. For instance, if a variable is of data type ```double``` and we want to convert it to ```int```, we have to wrap the ```int``` data type in parenthesis immediately before the variable.<br>
+  ***Example:*** <br>
+  ```
+  double myDoubleVariable = 20.85;
+  int myIntVariable = (int)myDoubleVariable;
+  ```
 
 ### UI -
 Stands for User Interface, this is used to describe what the website will generally look like - the buttons and the navigation  bar etc. UI is the _look_ of the site. Linked with UX*

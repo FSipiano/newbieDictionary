@@ -150,7 +150,7 @@ Cross-platform development is the practice of developing software products or se
 
 Create Read Update Delete
 
-Those are the four basic operations a software application should be able to perform  Typically refers to operations performed in a database or datastore, but it can also apply to higher level functions of an application such as soft deletes where data is not actually deleted but marked as deleted via a status.
+Those are the four basic operations a software application should be able to perform. Typically refers to operations performed in a database or datastore, but it can also apply to higher level functions of an application such as soft deletes where data is not actually deleted but marked as deleted via a status.
 
 ### Cryptography -
 The art of hiding secrets and researching for secure communications, to protect them from third parties.

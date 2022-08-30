@@ -389,9 +389,9 @@ It's a pattern in software design commonly used to implement user interfaces, da
 
 The three parts of the MVC software-design pattern can be described as follows:
   
-  Model: Manages data and business logic.
-  View: Handles layout and display.
-  Controller: Routes commands to the model and view parts.
+  1. Model: Manages data and business logic.
+  2. View: Handles layout and display.
+  3. Controller: Routes commands to the model and view parts.
 
 ###  Namespace (in javascript) -
 While we are working on web applications using JavaScript functions and files, it would become difficult to challenge code. So to help us manage this code, we have a keyword ‘Namespace’ which will create mini objects of different modules or functionalities to make code readable. JavaScript does not provide Namespace by default but this functionality can be replicated. It is a container providing scope for set of identifiers, type names, functions or variables, and methods, etc. to prevent collisions among them. It can be created with ease, so with minor tweaks, a namespace can be created.

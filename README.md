@@ -431,6 +431,9 @@ A project or repository that anyone can request to make changes or updates to. T
 ### Parsing
 The process of taking data in one format and transforming or converting it into another format. For example, converting [JSON](#json--) format of data to [Objects](#objects--) in JavaScript.
 
+### Port
+Computers use port numbers to determine to which process or application a message should be delivered. As network addresses are like street address, port numbers are like suite or room numbers. Any program may use any port, though some port numbers have a standard use and some programs may be limited in which ports they can use for security reasons
+
 ### Pseudocode -
 A human-readable explanation of how something should work – the way and order that it runs in. Pseudocode does not have to follow the rules of any programming language. It is a description of what the code in a program is doing so that even non-technical individuals can understand its logic.
 

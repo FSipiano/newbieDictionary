@@ -146,6 +146,12 @@ The substance of a website or digital experience. Content refers primarily to th
 ### Cross-platform
 Cross-platform development is the practice of developing software products or services for multiple platforms or software environments. Engineers and developers use various methods to accommodate different operating systems or environments for one application or product.
 
+### CRUD -
+
+Create Read Update Delete
+
+Those are the four basic operations a software application should be able to perform. Typically refers to operations performed in a database or datastore, but it can also apply to higher level functions of an application such as soft deletes where data is not actually deleted but marked as deleted via a status.
+
 ### Cryptography -
 The art of hiding secrets and researching for secure communications, to protect them from third parties.
 
@@ -374,6 +380,18 @@ MEVN stack is the open-source JavaScript software stack that has emerged as a ne
 
 ### Module bundler -
 A module bundler is a tool used by developers to put all JavaScript files and their dependencies into one or several files. They help developers manage all the dependencies included and the relationship between them. Although the main goal of module bundlers is to bundle JavaScript files, they can also be used for other types of files and assets. Examples are [Webpack](#webpack-- "See Webpack definition") and Parcel.
+
+### MVC - 
+
+Model View Controller
+
+It's a pattern in software design commonly used to implement user interfaces, data, and controlling logic. It emphasizes a separation between the software's business logic and display. 
+
+The three parts of the MVC software-design pattern can be described as follows:
+  
+  1. Model: Manages data and business logic.
+  2. View: Handles layout and display.
+  3. Controller: Routes commands to the model and view parts.
 
 ###  Namespace (in javascript) -
 While we are working on web applications using JavaScript functions and files, it would become difficult to challenge code. So to help us manage this code, we have a keyword ‘Namespace’ which will create mini objects of different modules or functionalities to make code readable. JavaScript does not provide Namespace by default but this functionality can be replicated. It is a container providing scope for set of identifiers, type names, functions or variables, and methods, etc. to prevent collisions among them. It can be created with ease, so with minor tweaks, a namespace can be created.

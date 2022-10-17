@@ -145,6 +145,9 @@ The substance of a website or digital experience. Content refers primarily to th
 ### Cryptography -
 The art of hiding secrets and researching for secure communications, to protect them from third parties.
 
+### Dapp -
+A Dapp, or decentralized application, is an application built on a decentralized blockchain network using smart contracts and Web 3.0 javascript libraries. Examples for Dapps include web3 wallets, cryptocurrency savings accounts, and NFT marketplaces.
+
 ### DDD -
 
 Domain Driven Design. 

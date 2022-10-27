@@ -155,6 +155,9 @@ Those are the four basic operations a software application should be able to per
 ### Cryptography -
 The art of hiding secrets and researching for secure communications, to protect them from third parties.
 
+### Dapp -
+A Dapp, or decentralized application, is an application built on a decentralized blockchain network using smart contracts and Web 3.0 javascript libraries. Examples for Dapps include web3 wallets, cryptocurrency savings accounts, and NFT marketplaces.
+
 ### DDD -
 
 Domain Driven Design. 
@@ -553,6 +556,9 @@ function run() {
   alert("Same instance? " + (instance1 === instance2));
 }
 ```
+
+### Smart Contracts -
+Smart contracts are computer programs or protocols for automated transactions that are stored on a blockchain and executed when predetermined terms and conditions are met.
 
 ### Source Code -
 Any collection of code that is displayed in a human readable format. Source code can be sent to a compiler to be translated into machine code for the CPU to utilize.

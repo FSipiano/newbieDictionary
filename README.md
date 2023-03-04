@@ -439,6 +439,9 @@ Also see [React](#reactjs--)
 ### Node.js -
 Node.js is JavaScript [Runtime](#runtime-- "See runtime's definition here") Environment that runs the V8 JavaScript engine outside of the browser. JavaScript is a single-threaded language (it cannot run two processes simultaneously), but Node.js provides a set of asynchronous functions that perform input/output operations in a non-blocking manner, allowing Node.js to handle several concurrent conections with a single server with ease. It allows frontend developers to write server-side code using JavaScript without the need of learning another language.
 
+### npm -
+npm is a package manager for the JavaScript programming language maintained by npm, Inc. npm is the default package manager for the JavaScript runtime environment Node.js. It consists of a command line client, also called npm, and an online database of public and paid-for private packages, called the npm registry.
+
 ### Objects -
 In code, you can create an ‘object’ that you can refer to later, for example you can create a ‘person’ with a first name and last name, an age, and an eye colour. This can then be used again if you wanted to create another ‘person’
 
@@ -629,5 +632,11 @@ A system for managing changes and edits made to a document. Popular version cont
 ### Virtual Machine (VM) -
 Software that makes it possible to use one computer operating system (like Linux) on a computer running another system (like MacOS). Examples include Virtual Box, Parallels, and VM Ware.
 
+### VueJS -
+Vue.js is an open-source model–view–viewmodel front end JavaScript framework for building user interfaces and single-page applications. It was created by Evan You, and is maintained by him and the rest of the active core team members.
+
 ### Webpack -
 Webpack is an open-source JavaScript module bundler. It is a module bundler primarily for JavaScript, but it can transform front-end assets like HTML, CSS, and images if the corresponding loaders are included. Webpack takes modules with dependencies and generates static assets representing those modules.
+
+### Yarn -
+Yarn is a software packaging system developed in 2016 by Facebook for the Node.js JavaScript runtime environment. An alternative to the npm package manager, Yarn was created as a collaboration of Facebook, Exponent, Google, and Tilde to solve consistency, security, and performance problems with large codebases.

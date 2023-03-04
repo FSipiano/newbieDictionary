@@ -354,6 +354,12 @@ Acronym for "Linux Apache MySQL PHP." A 'LAMP Stack' groups these software appli
 ### Library -
 A collection of functions which can be added to your application and the functions called as necessary, just like any other functions in the application. More precisely any object, not only functions can be stored in a library, but the vast majority of libraries only contain functions.
 
+### Linter -
+A linter is a tool used to analyze source code and flag programming errors, bugs, and stylistic inconsistencies. It checks the code against a set of predefined rules or guidelines and produces a report of any issues found.
+
+### Linting -
+Linting is a process used in software development to analyze source code and identify potential errors, bugs, and inconsistencies. It typically involves using a tool called a [linter](#linter--), which parses the code and checks it against a set of predefined rules or guidelines.
+
 ### Local/locally -
 On your computer
 _“You can access it locally”_

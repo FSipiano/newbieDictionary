@@ -451,8 +451,14 @@ Every object in JavaScript has a built-in property, which is called its prototyp
 
 ### Open source -
 A project or repository that anyone can request to make changes or updates to. This is a good way to learn. For example, this dictionary is Open Source.
+
+### Parse -
+(Unnecessarily overused) term for 'read through'
+
+Ex: "I found your dictionary easy to parse"
+Translation: "I found your dictionary easy to read through, thanks!
  
-### Parsing
+### Parsing -
 The process of taking data in one format and transforming or converting it into another format. For example, converting [JSON](#json--) format of data to [Objects](#objects--) in JavaScript.
 
 ### Port

@@ -632,6 +632,15 @@ A system for managing changes and edits made to a document. Popular version cont
 ### Virtual Machine (VM) -
 Software that makes it possible to use one computer operating system (like Linux) on a computer running another system (like MacOS). Examples include Virtual Box, Parallels, and VM Ware.
 
+
+### Virtual Environment(venv) -
+A virtual environment is basically a folder structure in a Python project that contains just the right dependency/package you need to run a project. It is lightweight and isolated from other projects, this ensures that complications do not occur from varying versions of a package.
+To set up a `venv` on Python, open your terminal and run the following command: ` python -m venv venv` (note that venv is the venv name and you can use any name but it is advisable to name it venv)
+Once the folder is created, cd into Scripts and open "activate", the path should be like `venv\Scripts\activate`. To read more details about virtual environments, click [_here_](https://medium.com/@daraakojede01/setting-up-a-virtual-environment-on-python-847ca31013ce)
+
+### Web3 -
+Web3 refers to an internet technology that is built on blockchain technology, it aims to be decentralized and provide users with better control over their online data and assets and to create a more secure and transparent internet. Web3 technologies aim to allow for decentralized applications, read more about dApps [_here_](https://www.investopedia.com/terms/d/decentralized-applications-dapps.asp)
+
 ### VueJS -
 Vue.js is an open-source model–view–viewmodel front end JavaScript framework for building user interfaces and single-page applications. It was created by Evan You, and is maintained by him and the rest of the active core team members.
 

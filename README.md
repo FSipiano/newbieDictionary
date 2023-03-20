@@ -575,6 +575,32 @@ function run() {
 ### Smart Contracts -
 Smart contracts are computer programs or protocols for automated transactions that are stored on a blockchain and executed when predetermined terms and conditions are met.
 
+### Solidity -
+Solidity is an object-oriented programming language created specifically by the Ethereum Network team for developing and deploring smart contracts on Blockchain networks.
+
+**Code Snippet**
+  
+  ```
+  // SPDX-License-Identifier: GPL-3.0
+pragma solidity >=0.8.6 <0.9.0;
+                                
+/// A contract for demonstrate how to create a contract
+                                
+contract Test {
+	// Declaring variable
+	string faye;
+
+	// Defining a constructor
+	constructor(string memory str_in){
+		faye = str_in;
+	}
+	// Defining a function to return value of variable 'faye'
+	function str_out() public view returns(string memory){
+		return faye;
+	}
+}
+  ```
+
 ### Source Code -
 Any collection of code that is displayed in a human readable format. Source code can be sent to a compiler to be translated into machine code for the CPU to utilize.
 

@@ -590,6 +590,9 @@ Stands for "structured query language" and pronounced either as sequel or saying
 ### String -
 A string is a data type used in programming, such as an integer and floating point unit, but is used to represent text rather than numbers. It is comprised of a set of characters that can also contain spaces and numbers. For example, the word "hamburger" and the phrase "I ate 3 hamburgers" are both strings. Even "12345" could be considered a string, if specified correctly. Typically, programmers must enclose strings in quotation marks for the data to be recognized as a string and not a number or variable name.
 
+### Symlink -
+Symlink (Symbolic link), which is also known as soft link, is a type of file that serves the purpose of directing to a file or directory (known as the "target") by indicating its path.
+
 ### Syntactic sugar -
 Syntax within a programming language that is designed to make things easier to read or to express.
 

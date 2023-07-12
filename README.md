@@ -355,10 +355,10 @@ Acronym for "Linux Apache MySQL PHP." A 'LAMP Stack' groups these software appli
 A collection of functions which can be added to your application and the functions called as necessary, just like any other functions in the application. More precisely any object, not only functions can be stored in a library, but the vast majority of libraries only contain functions.
 
 ### Linter -
-A linter is a tool used to analyze source code and flag programming errors, bugs, and stylistic inconsistencies. It checks the code against a set of predefined rules or guidelines and produces a report of any issues found.
+A linter is a tool used to analyze source code and flag programming errors, [bugs](#bug--), and stylistic inconsistencies. It checks the code against a set of predefined rules or guidelines and produces a report of any issues found.
 
 ### Linting -
-Linting is a process used in software development to analyze source code and identify potential errors, bugs, and inconsistencies. It typically involves using a tool called a [linter](#linter--), which parses the code and checks it against a set of predefined rules or guidelines.
+Linting is a process used in software development to analyze source code and identify potential errors, [bugs](#bug--), and inconsistencies. It typically involves using a tool called a [linter](#linter--), which [parses](#parse--) the code and checks it against a set of predefined rules or guidelines.
 
 ### Local/locally -
 On your computer
@@ -467,7 +467,7 @@ Translation: "I found your dictionary easy to read through, thanks!
 ### Parsing -
 The process of taking data in one format and transforming or converting it into another format. For example, converting [JSON](#json--) format of data to [Objects](#objects--) in JavaScript.
 
-### Port
+### Port -
 Computers use port numbers to determine to which process or application a message should be delivered. As network addresses are like street address, port numbers are like suite or room numbers. Any program may use any port, though some port numbers have a standard use and some programs may be limited in which ports they can use for security reasons
 
 ### Pseudocode -
@@ -589,6 +589,9 @@ Stands for "structured query language" and pronounced either as sequel or saying
   
 ### String -
 A string is a data type used in programming, such as an integer and floating point unit, but is used to represent text rather than numbers. It is comprised of a set of characters that can also contain spaces and numbers. For example, the word "hamburger" and the phrase "I ate 3 hamburgers" are both strings. Even "12345" could be considered a string, if specified correctly. Typically, programmers must enclose strings in quotation marks for the data to be recognized as a string and not a number or variable name.
+
+### Symlink -
+Symlink (Symbolic link), which is also known as soft link, is a type of file that serves the purpose of directing to a file or directory (known as the "target") by indicating its path.
 
 ### Syntactic sugar -
 Syntax within a programming language that is designed to make things easier to read or to express.

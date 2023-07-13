@@ -14,12 +14,15 @@ Never contributed to Open Source before?! That's cool - consider this your gatew
 Click the 'fork' button (in the top right), make your additions in your 'own version', and then create a pull request (definition below) to put it back into this main version! I'll review it and then add it in. 😄 
 
 <img width="120" alt="Fork button" src="https://user-images.githubusercontent.com/67593261/148640171-aee6397f-1b15-46a5-8df6-56c0f48b2395.png">
+
 ---
+
 # Consistency (is key!)
 
 ### Word - 
 
 Definition
+
 ---
 
 
